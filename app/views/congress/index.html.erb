@@ -1,0 +1,86 @@
+<div class="sky">
+  
+  <div class="congress-sky elastic pngfix">
+    
+    <h2 class="congress-summary">There have been <u><%= @meeting.number_of_cloture_votes %> cloture votes</u> so far<br />
+      in the 111th Congress.</h2>
+    <h3 class="congress-summary-extra">Of those, <u><%= @meeting.number_of_successful_cloture_votes %> have passed</u> — a percentage of <u><%= @meeting.pass_rate %></u>.</h3>
+    
+  </div> <!-- .elastic -->
+  
+</div> <!-- .sky -->
+
+
+<div class="paper">  
+  <div class="elastic clearfix">
+    
+    <div class="column column-4">
+      
+      <h3>Cloture votes</h3>
+      
+      <p>Standoffs between senators who want to stall legislation and senators who want to keep things moving. A successful cloture vote <strong>ends a filibuster</strong>.</p>
+      
+      <div class="data-table">
+        
+        <table>
+          <thead>
+            <tr>
+              <th class="first">
+                <span>Date</span>
+              </th>
+              <th>
+                <span>Roll Call</span>
+              </th>
+              <th class="columns-2">
+                <span>Subject of Filibuster</span>
+              </th>
+              <th class="last centered">
+                <span>Outcome</span>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <% @meeting.votes.each do |vote| %>
+
+              <tr>
+                <td class="first">
+                  <small class="vote-date"><%= vote.date_of_vote.to_s %></small>
+                </td>
+                <td>
+                  <%= link_to_cloture_vote vote %><br />
+              
+              
+                </td>
+                <td><%= link_to_voteable vote.voteable %></td>
+                <td class="last centered">
+                  <%= format_cloture_vote_outcome vote %>,<br /><%= vote.ayes %>–<%= vote.nays %>
+                </td>
+              </tr>
+
+            <% end %>
+            
+          </tbody>
+        </table>
+        
+      </div> <!-- .data-table -->
+
+      
+    </div> <!-- .column-4 -->
+    
+    
+    <div class="column column-4 column-last">
+      
+      <h3>History</h3>
+      
+      <p>Over the last century, increasing numbers of cloture votes per meeting of Congress reflect increasing use of the filibuster. The 110th Congress (2006–2008) saw a massive spike in the number of cloture motions <b style="color: #6A492E">introduced</b> and <b style="color: #2E6B1E">passed</b>. </p>
+      
+      <div class="historical-chart">
+        <%= image_tag 'chart.png' %>        
+      </div> <!-- .historical-chart -->
+      
+    </div> <!-- .column-4 -->
+    
+    
+
+  </div> <!-- .elastic -->  
+</div> <!-- .paper -->

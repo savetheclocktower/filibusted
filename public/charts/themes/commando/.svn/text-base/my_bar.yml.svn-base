@@ -1,0 +1,42 @@
+# Overriden bar chart styles
+<%=chart :bar%>
+  # Change y axis thickness
+  <%=component :chart_border%>
+    left_thickness: 5
+  # Change x axis label colors
+  <%=component :axis_value%>
+    color:          eeca98
+  # Change y axis label colors
+  <%=component :axis_category%>
+    color:          3097c0
+  # Change legend rectangle
+  <%=component :legend_rect%>
+    x:              35
+    width:          360
+  # Change chart rectangle
+  <%=component :chart_rect%>
+    negative_color: c0b15c
+    positive_color: f0811c
+    negative_alpha: 30
+    x:              35
+    y:              35
+    height:         225
+    width:          360    
+  # Change series colors
+  <%=component :series_color%>
+    colors:         657F5C,966E4A        
+  # Add a chart title
+  <%=component :draw%>   
+    components:         
+      - <%=drawing :text%>
+        transition: drop
+        delay:      0
+        duration:   0.5
+        bold:       true
+        rotation:   90
+        color:      657F5C
+        alpha:      50
+        size:       25
+        x:          65
+        y:          35
+        text:       Custom styles

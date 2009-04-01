@@ -1,0 +1,12 @@
+<% by_state = votes.group_by { |v| v.senator.state } %>
+
+<% by_state.each do |state, votes_for_state| %>
+  
+  <span class="state-senators-group">
+    <br /><span class="state-name"><%= state %></span>
+    <span class="senators-for-state">
+      <%= votes_for_state.map { |v| link_to_senator v.senator }.join(", ") %>
+    </span>
+  </span> <!-- .state-senators-group -->
+  
+<% end %>

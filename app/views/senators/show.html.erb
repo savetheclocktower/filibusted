@@ -1,0 +1,157 @@
+
+<div class="senator-banner">
+  
+  <div class="elastic clearfix">
+    
+    <div class="left clearfix">    
+      <div class="senator-photo">
+        <%= photo(@senator, :large, :size => "75x94") %>
+      </div> <!-- .senator-photo -->
+
+      <h1 class="senator-name"><%= @senator.formatted_name %></h1>
+      <h2 class="senator-party"><%= party(@senator) %> (<%= @senator.state %>)</h2>
+    </div> <!-- .left -->
+
+    <div class="right clearfix">
+      
+      <div class="obstruction-box clearfix">
+        
+        <% keyword = keyword_for_obstruction_rate(@senator.obstruction_rate) %>
+        <div class="senator-obstruction-rate rate-<%= keyword %>">
+          <span>Obstruction Rate:</span> 
+          <b><%= @senator.obstruction_percentage %></b>
+        </div> <!-- .senator-obstruction-rate -->
+
+        <div class="about-obstruction-rate">
+          <h3>What's this mean?</h3>
+
+          <% if keyword == "red" %>
+          <p><%= @senator.last_name %> consistently <strong>votes to prolong debate</strong> in order to stall legislation.</p>
+          <% elsif keyword == "yellow" %>
+          <p><%= @senator.last_name %> often votes to prolong debate, but isn't a lock to support a filibuster.</p>
+          <% else %>
+          <p><%= @senator.last_name %> consistently <strong>votes to end filibusters</strong> and prevent obstructionism by the minority.</p>
+          <% end %>
+        </div> <!-- .about-obstruction-rate -->
+        
+        
+      </div> <!-- .obstruction-box -->
+
+
+    </div> <!-- .right clearfix -->
+    
+  </div> <!-- .elastic.clearfix -->
+
+</div> <!-- .senator-banner -->
+
+
+
+<div class="about-this-senator paper">
+  
+  <div class="elastic wrapper">
+
+    <div class="two-columns clearfix">
+  
+      <div class="column column-5">
+    
+        <h3><%= @senator.last_name %>&#8217;s Cloture Votes in the 111th Congress</h3>
+    
+        <p><%= @senator.last_name %> has voted on <b><%= @senator.cast_votes.size %></b> out of the <b><%= @meeting.cloture_votes.size %></b> cloture motions raised in this meeting of Congress.</p>
+    
+        <div class="data-table">
+          <table>
+            <thead>
+              <tr>
+                <th class="first">
+                  <span>Date</span>
+                </th>
+                <th>
+                  <span>Roll Call</span>
+                </th>
+                <th class="columns-2">
+                  <span>Subject of Filibuster</span>
+                </th>
+                <th class="last centered">
+                  <span>Vote Cast</span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <% @senator.cast_votes.each do |vote| %>
+
+                <tr>
+                  <td class="first">
+                    <small class="vote-date"><%= vote.cloture_vote.date_of_vote.to_s %></small>
+                  </td>
+                  <td>
+                    <%= link_to_cloture_vote vote.cloture_vote %><br />
+                
+                
+                  </td>
+                  <td><%= link_to_voteable vote.cloture_vote.voteable %></td>
+                  <td class="last centered"><%= format_cast_vote vote %></td>
+                </tr>
+
+              <% end %>
+            </tbody>
+          </table>
+
+        </div> <!-- .data-table -->
+    
+      </div> <!-- .column left-column -->
+  
+      <div class="column column-3">
+    
+        <div class="breakout">
+          
+          <h3>Get in touch</h3>
+          
+          <% meta = @senator.meta %>
+          <p>Does <%= @senator.last_name %> represent your state? Tell <%= him(@senator) %> how you think <%= he(@senator) %>&#8217;s doing.</p>
+          
+          <div class="small-table">
+            <table>
+              <tr>
+                <th>Phone</th>
+                <td><%= meta[:phone] %></td>
+              </tr>
+
+              <% unless meta[:email].blank? %>
+              <tr>
+                <th>Email</th>
+                <td><%= link_to meta[:email], "mailto:#{meta[:email]}" %></td>
+              </tr>
+              <% end %>
+
+              <% unless meta[:website].blank? %>
+              <tr>
+                <th>Website</th>
+                <td><%= link_to meta[:website].gsub("http://", ''), meta[:website] %></td>
+              </tr>
+              <% end %>
+
+              <% unless meta[:twitter_id].blank? %>
+              <tr>
+                <th>Twitter</th>
+                <td><%= link_to "@#{meta[:twitter_id]}", "http://twitter.com/#{meta[:twitter_id]}/" %></td>
+              </tr>
+              <% end %>
+            </table>            
+          </div> <!-- .small-table -->
+                    
+        </div> <!-- .breakout -->
+        
+        <div class="breakout">
+          <h3>Learn more</h3>
+          
+          <p>Find out more about Sen. <%= @senator.last_name %> <a href="<%= meta[:congresspedia_url] %>">on CongressPedia</a>.</p>
+          
+        </div> <!-- .breakout -->
+    
+      </div> <!-- .column right-column -->
+    
+    </div> <!-- .two-column -->
+
+  </div> <!-- .elastic wrapper -->
+  
+</div> <!-- .about-this-senator -->

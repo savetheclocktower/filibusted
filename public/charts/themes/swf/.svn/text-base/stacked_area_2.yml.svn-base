@@ -1,0 +1,113 @@
+<%=chart :stacked_area %>
+        
+  <%=component :axis_category %>
+    size: 14
+    alpha: 0
+    bold: true
+    orientation: horizontal
+    color: 000000
+    font: arial
+    skip: 0
+
+  <%=component :axis_ticks %>
+    value_ticks: true
+    minor_color: 222222
+    minor_count: 1
+    major_thickness: 0
+    major_color: 666666
+    position: outside
+    category_ticks: true
+    minor_thickness: 0
+
+  <%=component :axis_value %>
+    steps: 6
+    prefix: 
+    size: 10
+    alpha: 0
+    bold: true
+    separator: 
+    decimals: 0
+    color: ffffff
+    font: arial
+    show_min: false
+    suffix: 
+
+  <%=component :chart_border %>
+    top_thickness: 2
+    bottom_thickness: 2
+    left_thickness: 2
+    color: 000000
+    right_thickness: 2
+
+  <%=component :chart_grid_h %>
+    alpha: 10
+    thickness: 1
+    color: ffffff
+
+  <%=component :chart_grid_v %>
+    alpha: 10
+    thickness: 1
+    color: ffffff
+
+  <%=component :chart_rect %>
+    x: 50
+    positive_alpha: 25
+    y: 25
+    height: 200
+    positive_color: 000000
+    negative_color: ff0000
+    negative_alpha: 10
+    width: 200
+
+  <%=component :legend_label %>
+    size: 13
+    alpha: 75
+    bold: true
+    color: ffffff
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 50
+    x: 250
+    fill_alpha: 10
+    y: 25
+    margin: 10
+    line_color: 000000
+    height: 200
+    fill_color: 000000
+    line_thickness: 0
+    width: 70
+
+  <%=component :series_color %>
+    colors: ffaa44,aaff44,aa44ff
+    
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    '000000'
+        alpha:    5
+        rotation: 0
+        bold:     true
+        size:     67
+        x:        45
+        y:        198
+        width:    200
+        height:   150
+        h_align:  left
+        v_align:  top
+        text:     
+    - <%=drawing :text %>
+      color:    ffffff
+      alpha:    10
+      rotation: 0
+      bold:     true
+      size:     75
+      x:        0
+      y:        0
+      width:    400
+      height:   300
+      h_align:  center
+      v_align:  bottom
+      text:     ----------------
+    

@@ -1,0 +1,84 @@
+<%=chart :candle_stick %>
+
+  <%=component :axis_category %>
+    size: 16
+    alpha: 50
+
+  <%=component :chart_border %>
+    top_thickness: 1
+    bottom_thickness: 3
+    left_thickness: 0
+    color: 000000
+    right_thickness: 0
+
+  <%=component :chart_pref %>
+    line_thickness: 2
+
+  <%=component :chart_rect %>
+    x: 75
+    positive_alpha: 10
+    y: 50
+    height: 200
+    positive_color: 000066
+    negative_color: 000000
+    negative_alpha: 30
+    width: 300
+
+  <%=component :chart_value %>
+    alpha: 90
+    size: 14
+    color: ff4400
+    position: cursor
+
+  <%=component :legend_rect %>
+    x: -999
+    y: -999
+    height: 0
+    width: 0
+
+  <%=component :series_color %>
+    colors: '333333'
+    
+  <%=component :draw %>   
+    components:             
+      - <%=drawing :text %>
+        color:    '000000'
+        alpha:    10
+        rotation: -90
+        bold:     true
+        size:     90
+        x:        -20
+        y:        298
+        width:    300
+        height:   200
+        h_align:  left
+        v_align:  top
+        text:     google
+        
+      - <%=drawing :text %>
+        color:    '000033'
+        alpha:    25
+        rotation: -90
+        bold:     true
+        size:     20
+        x:        -5
+        y:        123
+        width:    300
+        height:   50
+        h_align:  left
+        v_align:  top
+        text:     stock
+        
+      - <%=drawing :text %>
+        color:    ffffff
+        alpha:    30
+        rotation: 0
+        bold:     true
+        size:     30
+        x:        0
+        y:        0
+        width:    400
+        height:   35
+        h_align:  center
+        v_align:  bottom
+        text:     |||||||||||||||||||||||||||||||||||||||||||||||      

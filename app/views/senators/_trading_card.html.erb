@@ -1,0 +1,24 @@
+<div class="trading-card clearfix">
+  <div class="bottom clearfix">
+    <div class="name">
+      <a href="<%= url_for_senator senator %>"><%= senator.first_name %>
+      <b><%= senator.last_name %></b></a>
+    </div> <!-- .name -->    
+  </div> <!-- .bottom -->
+  
+  <div class="top">
+    <a href="<%= url_for_senator senator %>">
+      <%= photo(senator, :large) %>
+    </a>
+
+    <div class="meta clearfix">
+      <span class="party senator-<%= senator.party.downcase %>">
+        <%= senator.epithet  %>
+      </span> <!-- .party -->
+
+      <span class="obstruction-percentage"><%= "%3.0f\%" % (senator.obstruction_rate * 100) %></span>
+
+    </div> <!-- .meta -->
+  </div> <!-- .top -->
+  
+</div> <!-- .trading-card -->

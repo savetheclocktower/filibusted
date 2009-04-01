@@ -1,0 +1,4007 @@
+--- 
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412326"
+    :congress_office: 825c Hart Senate Office Building
+    :state: AK
+    :twitter_id: SenMarkBegich
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Mark_Begich
+    :middlename: ""
+    :nickname: ""
+    :email: senator@begich.senate.gov
+    :senate_class: II
+    :phone: 202-224-3004
+    :gender: M
+    :firstname: Mark
+    :fec_id: ""
+    :webform: http://begich.senate.gov/contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Begich
+    :website: http://begich.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "79426"
+    :bioguide_id: B001265
+    :fuzzy_score: 
+    :event_id: 
+    :fax: ""
+  id: 1
+  govtrack_id: "412326"
+  first_name: Mark
+  last_name: Begich
+  state: AK
+  party: D
+  created_at: 2009-03-29 02:47:00 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300075"
+    :congress_office: 709 Hart Senate Office Building
+    :state: AK
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00026050
+    :congresspedia_url: http://www.opencongress.org/wiki/Lisa_Murkowski
+    :middlename: A.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-6665
+    :gender: F
+    :firstname: Lisa
+    :fec_id: S4AK00099
+    :webform: http://murkowski.senate.gov/contact.cfm
+    :youtube_url: http://www.youtube.com/senatormurkowski
+    :in_office: 1
+    :lastname: Murkowski
+    :website: http://murkowski.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "15841"
+    :bioguide_id: M001153
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-5301
+  id: 2
+  govtrack_id: "300075"
+  first_name: Lisa
+  last_name: Murkowski
+  state: AK
+  party: R
+  created_at: 2009-03-29 02:47:01 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300068"
+    :congress_office: 355 Dirksen Senate Office Building
+    :state: AR
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00008092
+    :congresspedia_url: http://www.opencongress.org/wiki/Blanche_Lincoln
+    :middlename: Lambert
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-4843
+    :gender: F
+    :firstname: Blanche
+    :fec_id: S8MS00162
+    :webform: http://lincoln.senate.gov/contact/index.cfm
+    :youtube_url: http://www.youtube.com/SenatorLincoln
+    :in_office: 1
+    :lastname: Lincoln
+    :website: http://lincoln.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "26723"
+    :bioguide_id: L000035
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1371
+  id: 3
+  govtrack_id: "300068"
+  first_name: Blanche
+  last_name: Lincoln
+  state: AR
+  party: D
+  created_at: 2009-03-29 02:47:02 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300080"
+    :congress_office: 255 Dirksen Senate Office Building
+    :state: AR
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00013823
+    :congresspedia_url: http://www.opencongress.org/wiki/Mark_Pryor
+    :middlename: Lunsford
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2353
+    :gender: M
+    :firstname: Mark
+    :fec_id: S0AR00028
+    :webform: http://pryor.senate.gov/contact/
+    :youtube_url: http://www.youtube.com/SenatorPryor
+    :in_office: 1
+    :lastname: Pryor
+    :website: http://pryor.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "35"
+    :bioguide_id: P000590
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0908
+  id: 4
+  govtrack_id: "300080"
+  first_name: Mark
+  last_name: Pryor
+  state: AR
+  party: D
+  created_at: 2009-03-29 02:47:02 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300011"
+    :congress_office: 112 Hart Senate Office Building
+    :state: CA
+    :twitter_id: Barbara_Boxer
+    :title: Sen
+    :crp_id: N00006692
+    :congresspedia_url: http://www.opencongress.org/wiki/Barbara_Boxer
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3553
+    :gender: F
+    :firstname: Barbara
+    :fec_id: S2CA00286
+    :webform: http://boxer.senate.gov/contact/email/policy.cfm
+    :youtube_url: http://www.youtube.com/SenatorBoxer
+    :in_office: 1
+    :lastname: Boxer
+    :website: http://boxer.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53274"
+    :bioguide_id: B000711
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-0454
+  id: 5
+  govtrack_id: "300011"
+  first_name: Barbara
+  last_name: Boxer
+  state: CA
+  party: D
+  created_at: 2009-03-29 02:47:02 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300043"
+    :congress_office: 331 Hart Senate Office Building
+    :state: CA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00007364
+    :congresspedia_url: http://www.opencongress.org/wiki/Dianne_Feinstein
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-3841
+    :gender: F
+    :firstname: Dianne
+    :fec_id: S0CA00199
+    :webform: http://feinstein.senate.gov/public/index.cfm?FuseAction=ContactUs.EmailMe
+    :youtube_url: http://www.youtube.com/SenatorFeinstein
+    :in_office: 1
+    :lastname: Feinstein
+    :website: http://feinstein.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53273"
+    :bioguide_id: F000062
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-3954
+  id: 6
+  govtrack_id: "300043"
+  first_name: Dianne
+  last_name: Feinstein
+  state: CA
+  party: D
+  created_at: 2009-03-29 02:47:03 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: false
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400619"
+    :congress_office: 702 Hart Senate Office Building
+    :state: CO
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00026892
+    :congresspedia_url: http://www.opencongress.org/wiki/Ken_Salazar
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5852
+    :gender: M
+    :firstname: Ken
+    :fec_id: S4CO00163
+    :webform: http://salazar.senate.gov/contact/email.cfm
+    :youtube_url: http://www.youtube.com/SenatorSalazar
+    :in_office: 0
+    :lastname: Salazar
+    :website: http://salazar.senate.gov/index.html
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "1541"
+    :bioguide_id: S001163
+    :fuzzy_score: 1.0
+    :event_id: 
+    :fax: 202-228-5036
+  id: 7
+  govtrack_id: "400619"
+  first_name: Ken
+  last_name: Salazar
+  state: CO
+  party: D
+  created_at: 2009-03-29 02:53:07 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400412"
+    :congress_office: B40e Dirksen Senate Office Building
+    :state: CO
+    :twitter_id: MarkUdall
+    :title: Sen
+    :crp_id: N00008051
+    :congresspedia_url: http://www.opencongress.org/wiki/Mark_Udall
+    :middlename: E.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5941
+    :gender: M
+    :firstname: Mark
+    :fec_id: H8CO02087
+    :webform: http://markudall.senate.gov/contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Udall
+    :website: http://markudall.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "12329"
+    :bioguide_id: U000038
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-226-7840
+  id: 8
+  govtrack_id: "400412"
+  first_name: Mark
+  last_name: Udall
+  state: CO
+  party: D
+  created_at: 2009-03-29 02:53:07 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300034"
+    :congress_office: 448 Russell Senate Office Building
+    :state: CT
+    :twitter_id: SenChrisDodd
+    :title: Sen
+    :crp_id: N00000581
+    :congresspedia_url: http://www.opencongress.org/wiki/Christopher_Dodd
+    :middlename: J.
+    :nickname: Chris
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-2823
+    :gender: M
+    :firstname: Christopher
+    :fec_id: S0CT00037
+    :webform: http://dodd.senate.gov/index.php?q=node/3130
+    :youtube_url: http://www.youtube.com/SenChrisDodd
+    :in_office: 1
+    :lastname: Dodd
+    :website: http://dodd.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53277"
+    :bioguide_id: D000388
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1083
+  id: 9
+  govtrack_id: "300034"
+  first_name: Chris
+  last_name: Dodd
+  state: CT
+  party: D
+  created_at: 2009-03-29 02:53:07 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300067"
+    :congress_office: 706 Hart Senate Office Building
+    :state: CT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000616
+    :congresspedia_url: http://www.opencongress.org/wiki/Joseph_Lieberman
+    :middlename: I.
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4041
+    :gender: M
+    :firstname: Joseph
+    :fec_id: S8CT00022
+    :webform: http://lieberman.senate.gov/contact/index.cfm?regarding=issue
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Lieberman
+    :website: http://lieberman.senate.gov/
+    :district: Junior Seat
+    :party: I
+    :votesmart_id: "53278"
+    :bioguide_id: L000304
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-9750
+  id: 10
+  govtrack_id: "300067"
+  first_name: Joseph
+  last_name: Lieberman
+  state: CT
+  party: I
+  created_at: 2009-03-29 02:53:08 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300019"
+    :congress_office: 513 Hart Senate Office Building
+    :state: DE
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00012508
+    :congresspedia_url: http://www.opencongress.org/wiki/Thomas_Carper
+    :middlename: Richard
+    :nickname: Tom
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-2441
+    :gender: M
+    :firstname: Thomas
+    :fec_id: S8DE00079
+    :webform: http://carper.senate.gov/contact/
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Carper
+    :website: http://carper.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "22421"
+    :bioguide_id: C000174
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2190
+  id: 11
+  govtrack_id: "300019"
+  first_name: Tom
+  last_name: Carper
+  state: DE
+  party: D
+  created_at: 2009-03-29 02:53:08 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: Sr.
+    :govtrack_id: "300078"
+    :congress_office: 716 Hart Senate Office Building
+    :state: FL
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009926
+    :congresspedia_url: http://www.opencongress.org/wiki/Bill_Nelson
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-5274
+    :gender: M
+    :firstname: Bill
+    :fec_id: S8FL00166
+    :webform: http://billnelson.senate.gov/contact/email.cfm
+    :youtube_url: http://www.youtube.com/SenBillNelson
+    :in_office: 1
+    :lastname: Nelson
+    :website: http://billnelson.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "30880"
+    :bioguide_id: N000032
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2183
+  id: 12
+  govtrack_id: "300078"
+  first_name: Bill
+  last_name: Nelson
+  state: FL
+  party: D
+  created_at: 2009-03-29 02:53:09 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: Sr.
+    :govtrack_id: "300001"
+    :congress_office: 141 Hart Senate Office Building
+    :state: HI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00007653
+    :congresspedia_url: http://www.opencongress.org/wiki/Daniel_Akaka
+    :middlename: Kahikina
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6361
+    :gender: M
+    :firstname: Daniel
+    :fec_id: S0HI00084
+    :webform: http://akaka.senate.gov/public/index.cfm?FuseAction=Contact.Home
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Akaka
+    :website: http://akaka.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53286"
+    :bioguide_id: A000069
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2126
+  id: 13
+  govtrack_id: "300001"
+  first_name: Daniel
+  last_name: Akaka
+  state: HI
+  party: D
+  created_at: 2009-03-29 02:53:09 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300056"
+    :congress_office: 722 Hart Senate Office Building
+    :state: HI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001762
+    :congresspedia_url: http://www.opencongress.org/wiki/Daniel_Inouye
+    :middlename: K.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3934
+    :gender: M
+    :firstname: Daniel
+    :fec_id: S4HI00011
+    :webform: http://inouye.senate.gov/abtform.html
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Inouye
+    :website: http://inouye.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53285"
+    :bioguide_id: I000025
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-6747
+  id: 14
+  govtrack_id: "300056"
+  first_name: Daniel
+  last_name: Inouye
+  state: HI
+  party: D
+  created_at: 2009-03-29 02:53:09 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300030"
+    :congress_office: 239 Dirksen Senate Office Building
+    :state: ID
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00006267
+    :congresspedia_url: http://www.opencongress.org/wiki/Michael_Crapo
+    :middlename: D.
+    :nickname: Mike
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-6142
+    :gender: M
+    :firstname: Michael
+    :fec_id: S8ID00027
+    :webform: http://crapo.senate.gov/contact/email.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Crapo
+    :website: http://crapo.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "26830"
+    :bioguide_id: C000880
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1375
+  id: 15
+  govtrack_id: "300030"
+  first_name: Mike
+  last_name: Crapo
+  state: ID
+  party: R
+  created_at: 2009-03-29 02:53:09 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412322"
+    :congress_office: 2 Russell Courtyard
+    :state: ID
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/James_Risch
+    :middlename: E.
+    :nickname: Jim
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2752
+    :gender: M
+    :firstname: James
+    :fec_id: ""
+    :webform: http://risch.senate.gov/webform.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Risch
+    :website: http://risch.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "2919"
+    :bioguide_id: R000584
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2573
+  id: 16
+  govtrack_id: "412322"
+  first_name: Jim
+  last_name: Risch
+  state: ID
+  party: R
+  created_at: 2009-03-29 02:53:09 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300038"
+    :congress_office: 309 Hart Senate Office Building
+    :state: IL
+    :twitter_id: dickdurbin
+    :title: Sen
+    :crp_id: N00004981
+    :congresspedia_url: http://www.opencongress.org/wiki/Richard_Durbin
+    :middlename: J.
+    :nickname: Dick
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2152
+    :gender: M
+    :firstname: Richard
+    :fec_id: S6IL00151
+    :webform: http://durbin.senate.gov/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Durbin
+    :website: http://durbin.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "26847"
+    :bioguide_id: D000563
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0400
+  id: 17
+  govtrack_id: "300038"
+  first_name: Dick
+  last_name: Durbin
+  state: IL
+  party: D
+  created_at: 2009-03-29 02:53:10 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300006"
+    :congress_office: 131 Russell Senate Office Building
+    :state: IN
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003762
+    :congresspedia_url: http://www.opencongress.org/wiki/Evan_Bayh
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5623
+    :gender: M
+    :firstname: Evan
+    :fec_id: S8IN00049
+    :webform: http://bayh.senate.gov/contact/email/
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Bayh
+    :website: http://bayh.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "22418"
+    :bioguide_id: B001233
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1377
+  id: 18
+  govtrack_id: "300006"
+  first_name: Evan
+  last_name: Bayh
+  state: IN
+  party: D
+  created_at: 2009-03-29 02:53:10 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300070"
+    :congress_office: 306 Hart Senate Office Building
+    :state: IN
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001764
+    :congresspedia_url: http://www.opencongress.org/wiki/Richard_Lugar
+    :middlename: G.
+    :nickname: ""
+    :email: senator_lugar@lugar.senate.gov
+    :senate_class: I
+    :phone: 202-224-4814
+    :gender: M
+    :firstname: Richard
+    :fec_id: S4IN00014
+    :webform: None
+    :youtube_url: http://www.youtube.com/senatorlugar
+    :in_office: 1
+    :lastname: Lugar
+    :website: http://lugar.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53292"
+    :bioguide_id: L000504
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0360
+  id: 19
+  govtrack_id: "300070"
+  first_name: Richard
+  last_name: Lugar
+  state: IN
+  party: R
+  created_at: 2009-03-29 02:53:10 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300051"
+    :congress_office: 731 Hart Senate Office Building
+    :state: IA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004207
+    :congresspedia_url: http://www.opencongress.org/wiki/Thomas_Harkin
+    :middlename: ""
+    :nickname: Tom
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-3254
+    :gender: M
+    :firstname: Thomas
+    :fec_id: S4IA00020
+    :webform: https://harkin.senate.gov/c/index.cfm
+    :youtube_url: http://www.youtube.com/SenatorTomHarkin
+    :in_office: 1
+    :lastname: Harkin
+    :website: http://harkin.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53294"
+    :bioguide_id: H000206
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-9369
+  id: 20
+  govtrack_id: "300051"
+  first_name: Tom
+  last_name: Harkin
+  state: IA
+  party: D
+  created_at: 2009-03-29 02:53:11 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300063"
+    :congress_office: 328 Hart Senate Office Building
+    :state: LA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00005395
+    :congresspedia_url: http://www.opencongress.org/wiki/Mary_Landrieu
+    :middlename: L.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5824
+    :gender: F
+    :firstname: Mary
+    :fec_id: S6LA00227
+    :webform: http://landrieu.senate.gov/contact/index.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Landrieu
+    :website: http://landrieu.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "661"
+    :bioguide_id: L000550
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-9735
+  id: 21
+  govtrack_id: "300063"
+  first_name: Mary
+  last_name: Landrieu
+  state: LA
+  party: D
+  created_at: 2009-03-29 02:53:12 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300025"
+    :congress_office: 413 Dirksen Senate Office Building
+    :state: ME
+    :twitter_id: senatorcollins
+    :title: Sen
+    :crp_id: N00000491
+    :congresspedia_url: http://www.opencongress.org/wiki/Susan_Collins
+    :middlename: M.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2523
+    :gender: F
+    :firstname: Susan
+    :fec_id: S6ME00159
+    :webform: http://collins.senate.gov/public/continue.cfm?FuseAction=ContactSenatorCollins.email
+    :youtube_url: http://www.youtube.com/SenatorSusanCollins
+    :in_office: 1
+    :lastname: Collins
+    :website: http://collins.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "379"
+    :bioguide_id: C001035
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2693
+  id: 22
+  govtrack_id: "300025"
+  first_name: Susan
+  last_name: Collins
+  state: ME
+  party: R
+  created_at: 2009-03-29 02:53:12 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300091"
+    :congress_office: 154 Russell Senate Office Building
+    :state: ME
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000480
+    :congresspedia_url: http://www.opencongress.org/wiki/Olympia_Snowe
+    :middlename: Jean
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-5344
+    :gender: F
+    :firstname: Olympia
+    :fec_id: S4ME00055
+    :webform: http://snowe.senate.gov/webform.htm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Snowe
+    :website: http://snowe.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "26885"
+    :bioguide_id: S000663
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-1946
+  id: 23
+  govtrack_id: "300091"
+  first_name: Olympia
+  last_name: Snowe
+  state: ME
+  party: R
+  created_at: 2009-03-29 02:53:12 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400064"
+    :congress_office: 509 Hart Senate Office Building
+    :state: MD
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001955
+    :congresspedia_url: http://www.opencongress.org/wiki/Benjamin_Cardin
+    :middlename: L.
+    :nickname: Ben
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4524
+    :gender: M
+    :firstname: Benjamin
+    :fec_id: H6MD03177
+    :webform: http://cardin.senate.gov/contact/email.cfm
+    :youtube_url: http://www.youtube.com/SenatorCardin
+    :in_office: 1
+    :lastname: Cardin
+    :website: http://cardin.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "26888"
+    :bioguide_id: C000141
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-1651
+  id: 24
+  govtrack_id: "400064"
+  first_name: Ben
+  last_name: Cardin
+  state: MD
+  party: D
+  created_at: 2009-03-29 02:53:12 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300073"
+    :congress_office: 503 Hart Senate Office Building
+    :state: MD
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001945
+    :congresspedia_url: http://www.opencongress.org/wiki/Barbara_Mikulski
+    :middlename: A.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-4654
+    :gender: F
+    :firstname: Barbara
+    :fec_id: S6MD00140
+    :webform: http://mikulski.senate.gov/Contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Mikulski
+    :website: http://mikulski.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53304"
+    :bioguide_id: M000702
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-8858
+  id: 25
+  govtrack_id: "300073"
+  first_name: Barbara
+  last_name: Mikulski
+  state: MD
+  party: D
+  created_at: 2009-03-29 02:53:12 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300060"
+    :congress_office: 218 Russell Senate Office Building
+    :state: MA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000245
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Kerry
+    :middlename: Forbes
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2742
+    :gender: M
+    :firstname: John
+    :fec_id: S4MA00069
+    :webform: http://kerry.senate.gov/v3/contact/email.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Kerry
+    :website: http://kerry.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53306"
+    :bioguide_id: K000148
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-8525
+  id: 26
+  govtrack_id: "300060"
+  first_name: John
+  last_name: Kerry
+  state: MA
+  party: D
+  created_at: 2009-03-29 02:53:12 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300066"
+    :congress_office: 269 Russell Senate Office Building
+    :state: MI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001691
+    :congresspedia_url: http://www.opencongress.org/wiki/Carl_Levin
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-6221
+    :gender: M
+    :firstname: Carl
+    :fec_id: S8MI00158
+    :webform: http://levin.senate.gov/contact/index.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Levin
+    :website: http://levin.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53307"
+    :bioguide_id: L000261
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-1388
+  id: 27
+  govtrack_id: "300066"
+  first_name: Carl
+  last_name: Levin
+  state: MI
+  party: D
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300093"
+    :congress_office: 133 Hart Senate Office Building
+    :state: MI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004118
+    :congresspedia_url: http://www.opencongress.org/wiki/Debbie_Stabenow
+    :middlename: Ann
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4822
+    :gender: F
+    :firstname: Debbie
+    :fec_id: S8MI00281
+    :webform: http://stabenow.senate.gov/email.htm
+    :youtube_url: http://www.youtube.com/SenatorStabenow
+    :in_office: 1
+    :lastname: Stabenow
+    :website: http://stabenow.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "515"
+    :bioguide_id: S000770
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0325
+  id: 28
+  govtrack_id: "300093"
+  first_name: Debbie
+  last_name: Stabenow
+  state: MI
+  party: D
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412242"
+    :congress_office: 302 Hart Senate Office Building
+    :state: MN
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00027500
+    :congresspedia_url: http://www.opencongress.org/wiki/Amy_Klobuchar
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-3244
+    :gender: F
+    :firstname: Amy
+    :fec_id: S6MN00267
+    :webform: http://klobuchar.senate.gov/emailamy.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Klobuchar
+    :website: http://klobuchar.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "65092"
+    :bioguide_id: K000367
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2186
+  id: 29
+  govtrack_id: "412242"
+  first_name: Amy
+  last_name: Klobuchar
+  state: MN
+  party: D
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300023"
+    :congress_office: 113 Dirksen Senate Office Building
+    :state: MS
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003328
+    :congresspedia_url: http://www.opencongress.org/wiki/Thad_Cochran
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5054
+    :gender: M
+    :firstname: Thad
+    :fec_id: S8MS00055
+    :webform: http://cochran.senate.gov/contact.htm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Cochran
+    :website: http://cochran.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53312"
+    :bioguide_id: C000567
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-9450
+  id: 30
+  govtrack_id: "300023"
+  first_name: Thad
+  last_name: Cochran
+  state: MS
+  party: R
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400432"
+    :congress_office: 487 Russell Senate Office Building
+    :state: MS
+    :twitter_id: rogerwicker
+    :title: Sen
+    :crp_id: N00003280
+    :congresspedia_url: http://www.opencongress.org/wiki/Roger_Wicker
+    :middlename: F.
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6253
+    :gender: M
+    :firstname: Roger
+    :fec_id: H4MS01078
+    :webform: http://wicker.senate.gov/public/index.cfm?FuseAction=Contact.EMailSenatorWicker
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Wicker
+    :website: http://wicker.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "21926"
+    :bioguide_id: W000437
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0378
+  id: 31
+  govtrack_id: "400432"
+  first_name: Roger
+  last_name: Wicker
+  state: MS
+  party: R
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412243"
+    :congress_office: 717 Hart Senate Office Building
+    :state: MO
+    :twitter_id: clairecmc
+    :title: Sen
+    :crp_id: N00027694
+    :congresspedia_url: http://www.opencongress.org/wiki/Claire_McCaskill
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6154
+    :gender: F
+    :firstname: Claire
+    :fec_id: S6MO00305
+    :webform: http://mccaskill.senate.gov/contact/
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: McCaskill
+    :website: http://mccaskill.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "2109"
+    :bioguide_id: M001170
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-6326
+  id: 32
+  govtrack_id: "412243"
+  first_name: Claire
+  last_name: McCaskill
+  state: MO
+  party: D
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300005"
+    :congress_office: 511 Hart Senate Office Building
+    :state: MT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004643
+    :congresspedia_url: http://www.opencongress.org/wiki/Max_Baucus
+    :middlename: S.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2651
+    :gender: M
+    :firstname: Max
+    :fec_id: S8MT00010
+    :webform: http://baucus.senate.gov/contact/emailForm.cfm?subj=issue
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Baucus
+    :website: http://baucus.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53315"
+    :bioguide_id: B000243
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-0515
+  id: 33
+  govtrack_id: "300005"
+  first_name: Max
+  last_name: Baucus
+  state: MT
+  party: D
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:28 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412244"
+    :congress_office: 204 Russell Senate Office Building
+    :state: MT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00027605
+    :congresspedia_url: http://www.opencongress.org/wiki/Jon_Tester
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-2644
+    :gender: M
+    :firstname: Jon
+    :fec_id: S6MT00162
+    :webform: http://tester.senate.gov/Contact/
+    :youtube_url: http://www.youtube.com/SenatorJonTester
+    :in_office: 1
+    :lastname: Tester
+    :website: http://tester.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "20928"
+    :bioguide_id: T000464
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-8594
+  id: 34
+  govtrack_id: "412244"
+  first_name: Jon
+  last_name: Tester
+  state: MT
+  party: D
+  created_at: 2009-03-29 02:53:13 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300077"
+    :congress_office: 720 Hart Senate Office Building
+    :state: NE
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00005329
+    :congresspedia_url: http://www.opencongress.org/wiki/E._Benjamin_Nelson
+    :middlename: ""
+    :nickname: Ben
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6551
+    :gender: M
+    :firstname: E. Benjamin
+    :fec_id: S6NE00095
+    :webform: http://bennelson.senate.gov/contact/email.cfm
+    :youtube_url: http://www.youtube.com/SenBenNelson
+    :in_office: 1
+    :lastname: Nelson
+    :website: http://bennelson.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "21744"
+    :bioguide_id: N000180
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0012
+  id: 35
+  govtrack_id: "300077"
+  first_name: Ben
+  last_name: Nelson
+  state: NE
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300082"
+    :congress_office: 522 Hart Senate Office Building
+    :state: NV
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009922
+    :congresspedia_url: http://www.opencongress.org/wiki/Harry_Reid
+    :middlename: M.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3542
+    :gender: M
+    :firstname: Harry
+    :fec_id: S6NV00028
+    :webform: http://reid.senate.gov/contact/index.cfm
+    :youtube_url: http://www.youtube.com/SenatorReid
+    :in_office: 1
+    :lastname: Reid
+    :website: http://reid.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53320"
+    :bioguide_id: R000146
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-7327
+  id: 36
+  govtrack_id: "300082"
+  first_name: Harry
+  last_name: Reid
+  state: NV
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412323"
+    :congress_office: G55 Dirksen Senate Office Building
+    :state: NH
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Jeanne_Shaheen
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2841
+    :gender: F
+    :firstname: Jeanne
+    :fec_id: ""
+    :webform: http://shaheen.senate.gov/contact/contact.cfm
+    :youtube_url: http://www.youtube.com/senatorshaheen
+    :in_office: 1
+    :lastname: Shaheen
+    :website: http://shaheen.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "1663"
+    :bioguide_id: S001181
+    :fuzzy_score: 
+    :event_id: 
+    :fax: ""
+  id: 37
+  govtrack_id: "412323"
+  first_name: Jeanne
+  last_name: Shaheen
+  state: NH
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300064"
+    :congress_office: 324 Hart Senate Office Building
+    :state: NJ
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000659
+    :congresspedia_url: http://www.opencongress.org/wiki/Frank_Lautenberg
+    :middlename: R.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-3224
+    :gender: M
+    :firstname: Frank
+    :fec_id: S2NJ00080
+    :webform: http://lautenberg.senate.gov/contact/
+    :youtube_url: http://www.youtube.com/franklautenberg
+    :in_office: 1
+    :lastname: Lautenberg
+    :website: http://lautenberg.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53324"
+    :bioguide_id: L000123
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-4054
+  id: 38
+  govtrack_id: "300064"
+  first_name: Frank
+  last_name: Lautenberg
+  state: NJ
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400272"
+    :congress_office: 528 Hart Senate Office Building
+    :state: NJ
+    :twitter_id: senatormenendez
+    :title: Sen
+    :crp_id: N00000699
+    :congresspedia_url: http://www.opencongress.org/wiki/Robert_Menendez
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4744
+    :gender: M
+    :firstname: Robert
+    :fec_id: H2NJ13075
+    :webform: http://menendez.senate.gov/contact/contact.cfm
+    :youtube_url: http://www.youtube.com/SenatorMenendezNJ
+    :in_office: 1
+    :lastname: Menendez
+    :website: http://menendez.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "26961"
+    :bioguide_id: M000639
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2197
+  id: 39
+  govtrack_id: "400272"
+  first_name: Robert
+  last_name: Menendez
+  state: NJ
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300009"
+    :congress_office: 703 Hart Senate Office Building
+    :state: NM
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00006518
+    :congresspedia_url: http://www.opencongress.org/wiki/Jeff_Bingaman
+    :middlename: ""
+    :nickname: ""
+    :email: senator_bingaman@bingaman.senate.gov
+    :senate_class: I
+    :phone: 202-224-5521
+    :gender: M
+    :firstname: Jeff
+    :fec_id: S2NM00021
+    :webform: http://bingaman.senate.gov/contact/types/email-issue.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Bingaman
+    :website: http://bingaman.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53326"
+    :bioguide_id: B000468
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2852
+  id: 40
+  govtrack_id: "300009"
+  first_name: Jeff
+  last_name: Bingaman
+  state: NM
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400413"
+    :congress_office: B40d Dirksen Senate Office Building
+    :state: NM
+    :twitter_id: tomudall
+    :title: Sen
+    :crp_id: N00006561
+    :congresspedia_url: http://www.opencongress.org/wiki/Tom_Udall
+    :middlename: S.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-6621
+    :gender: M
+    :firstname: Tom
+    :fec_id: H8NM03097
+    :webform: http://tomudall.senate.gov/contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Udall
+    :website: http://tomudall.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "22658"
+    :bioguide_id: U000039
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-226-1331
+  id: 41
+  govtrack_id: "400413"
+  first_name: Tom
+  last_name: Udall
+  state: NM
+  party: D
+  created_at: 2009-03-29 02:53:14 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: false
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300022"
+    :congress_office: 476 Russell Senate Office Building
+    :state: NY
+    :twitter_id: hillaryclinton
+    :title: Sen
+    :crp_id: N00000019
+    :congresspedia_url: http://www.opencongress.org/wiki/Hillary_Clinton
+    :middlename: Rodham
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4451
+    :gender: F
+    :firstname: Hillary
+    :fec_id: S0NY00188
+    :webform: http://clinton.senate.gov/contact/webform.cfm
+    :youtube_url: ""
+    :in_office: 0
+    :lastname: Clinton
+    :website: http://clinton.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "55463"
+    :bioguide_id: C001041
+    :fuzzy_score: 1.0
+    :event_id: 
+    :fax: 202-228-0282
+  id: 42
+  govtrack_id: "300022"
+  first_name: Hillary
+  last_name: Clinton
+  state: NY
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300087"
+    :congress_office: 313 Hart Senate Office Building
+    :state: NY
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001093
+    :congresspedia_url: http://www.opencongress.org/wiki/Charles_Schumer
+    :middlename: E.
+    :nickname: Chuck
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-6542
+    :gender: M
+    :firstname: Charles
+    :fec_id: S8NY00082
+    :webform: http://schumer.senate.gov/new_website/contact.cfm
+    :youtube_url: http://www.youtube.com/senatorschumer
+    :in_office: 1
+    :lastname: Schumer
+    :website: http://schumer.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "26976"
+    :bioguide_id: S000148
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-3027
+  id: 43
+  govtrack_id: "300087"
+  first_name: Chuck
+  last_name: Schumer
+  state: NY
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412324"
+    :congress_office: B40a Dirksen Senate Office Building
+    :state: NC
+    :twitter_id: SenKayHagan
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Kay_Hagan
+    :middlename: R.
+    :nickname: ""
+    :email: Senator_Hagan@hagan.senate.gov
+    :senate_class: II
+    :phone: 202-224-6342
+    :gender: F
+    :firstname: Kay
+    :fec_id: ""
+    :webform: http://hagan.senate.gov/contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Hagan
+    :website: http://hagan.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "21082"
+    :bioguide_id: H001049
+    :fuzzy_score: 
+    :event_id: 
+    :fax: ""
+  id: 44
+  govtrack_id: "412324"
+  first_name: Kay
+  last_name: Hagan
+  state: NC
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300026"
+    :congress_office: 530 Hart Senate Office Building
+    :state: ND
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004613
+    :congresspedia_url: http://www.opencongress.org/wiki/Kent_Conrad
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-2043
+    :gender: M
+    :firstname: Kent
+    :fec_id: S6ND00058
+    :webform: http://conrad.senate.gov/webform.html
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Conrad
+    :website: http://conrad.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53331"
+    :bioguide_id: C000705
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-7776
+  id: 45
+  govtrack_id: "300026"
+  first_name: Kent
+  last_name: Conrad
+  state: ND
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300037"
+    :congress_office: 322 Hart Senate Office Building
+    :state: ND
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004615
+    :congresspedia_url: http://www.opencongress.org/wiki/Byron_Dorgan
+    :middlename: L.
+    :nickname: ""
+    :email: senator@dorgan.senate.gov
+    :senate_class: III
+    :phone: 202-224-2551
+    :gender: M
+    :firstname: Byron
+    :fec_id: S2ND00040
+    :webform: None
+    :youtube_url: http://www.youtube.com/senatordorgan
+    :in_office: 1
+    :lastname: Dorgan
+    :website: http://dorgan.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53332"
+    :bioguide_id: D000432
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-1193
+  id: 46
+  govtrack_id: "300037"
+  first_name: Byron
+  last_name: Dorgan
+  state: ND
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412325"
+    :congress_office: B40b Dirksen Senate Office Building
+    :state: OR
+    :twitter_id: senjeffmerkley
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Jeffery_Merkley
+    :middlename: A.
+    :nickname: Jeff
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-3753
+    :gender: M
+    :firstname: Jeffery
+    :fec_id: ""
+    :webform: http://merkley.senate.gov/contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Merkley
+    :website: http://merkley.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "23644"
+    :bioguide_id: M001176
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-3997
+  id: 47
+  govtrack_id: "412325"
+  first_name: Jeff
+  last_name: Merkley
+  state: OR
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300100"
+    :congress_office: 223 Dirksen Senate Office Building
+    :state: OR
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00007724
+    :congresspedia_url: http://www.opencongress.org/wiki/Ron_Wyden
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5244
+    :gender: M
+    :firstname: Ron
+    :fec_id: S6OR00110
+    :webform: http://wyden.senate.gov/contact/
+    :youtube_url: http://www.youtube.com/SenRonWyden
+    :in_office: 1
+    :lastname: Wyden
+    :website: http://wyden.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "27036"
+    :bioguide_id: W000779
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2717
+  id: 48
+  govtrack_id: "300100"
+  first_name: Ron
+  last_name: Wyden
+  state: OR
+  party: D
+  created_at: 2009-03-29 02:53:16 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: Jr.
+    :govtrack_id: "412246"
+    :congress_office: 383 Russell Senate Office Building
+    :state: PA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00027503
+    :congresspedia_url: http://www.opencongress.org/wiki/Robert_Casey
+    :middlename: P.
+    :nickname: Bob
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6324
+    :gender: M
+    :firstname: Robert
+    :fec_id: S6PA00217
+    :webform: http://casey.senate.gov/contact/
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Casey
+    :website: http://casey.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "2541"
+    :bioguide_id: C001070
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0604
+  id: 49
+  govtrack_id: "412246"
+  first_name: Bob
+  last_name: Casey
+  state: PA
+  party: D
+  created_at: 2009-03-29 02:53:17 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300081"
+    :congress_office: 728 Hart Senate Office Building
+    :state: RI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000362
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Reed
+    :middlename: Francis
+    :nickname: Jack
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-4642
+    :gender: M
+    :firstname: John
+    :fec_id: S6RI00163
+    :webform: http://reed.senate.gov/contact/contact-share.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Reed
+    :website: http://reed.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "27060"
+    :bioguide_id: R000122
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-4680
+  id: 50
+  govtrack_id: "300081"
+  first_name: Jack
+  last_name: Reed
+  state: RI
+  party: D
+  created_at: 2009-03-29 02:53:17 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412247"
+    :congress_office: 502 Hart Senate Office Building
+    :state: RI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00027533
+    :congresspedia_url: http://www.opencongress.org/wiki/Sheldon_Whitehouse
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-2921
+    :gender: M
+    :firstname: Sheldon
+    :fec_id: S6RI00221
+    :webform: http://whitehouse.senate.gov/contact/
+    :youtube_url: http://www.youtube.com/SenatorWhitehouse
+    :in_office: 1
+    :lastname: Whitehouse
+    :website: http://whitehouse.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "2572"
+    :bioguide_id: W000802
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-6362
+  id: 51
+  govtrack_id: "412247"
+  first_name: Sheldon
+  last_name: Whitehouse
+  state: RI
+  party: D
+  created_at: 2009-03-29 02:53:17 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300058"
+    :congress_office: 136 Hart Senate Office Building
+    :state: SD
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00010084
+    :congresspedia_url: http://www.opencongress.org/wiki/Tim_Johnson
+    :middlename: P.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5842
+    :gender: M
+    :firstname: Tim
+    :fec_id: S6SD00051
+    :webform: http://johnson.senate.gov/contact/
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Johnson
+    :website: http://johnson.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "27067"
+    :bioguide_id: J000177
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-5765
+  id: 52
+  govtrack_id: "300058"
+  first_name: Tim
+  last_name: Johnson
+  state: SD
+  party: D
+  created_at: 2009-03-29 02:53:17 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300007"
+    :congress_office: 431 Dirksen Senate Office Building
+    :state: UT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00006347
+    :congresspedia_url: http://www.opencongress.org/wiki/Robert_Bennett
+    :middlename: F.
+    :nickname: Bob
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5444
+    :gender: M
+    :firstname: Robert
+    :fec_id: S2UT00104
+    :webform: http://bennett.senate.gov/contact/emailmain.html
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Bennett
+    :website: http://bennett.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "53351"
+    :bioguide_id: B000382
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1168
+  id: 53
+  govtrack_id: "300007"
+  first_name: Bob
+  last_name: Bennett
+  state: UT
+  party: R
+  created_at: 2009-03-29 02:53:17 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300052"
+    :congress_office: 104 Hart Senate Office Building
+    :state: UT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009869
+    :congresspedia_url: http://www.opencongress.org/wiki/Orrin_Hatch
+    :middlename: G.
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-5251
+    :gender: M
+    :firstname: Orrin
+    :fec_id: S6UT00063
+    :webform: http://hatch.senate.gov/public/index.cfm?FuseAction=Offices.Contact
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Hatch
+    :website: http://hatch.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53352"
+    :bioguide_id: H000338
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-6331
+  id: 54
+  govtrack_id: "300052"
+  first_name: Orrin
+  last_name: Hatch
+  state: UT
+  party: R
+  created_at: 2009-03-29 02:53:18 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300065"
+    :congress_office: 433 Russell Senate Office Building
+    :state: VT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009918
+    :congresspedia_url: http://www.opencongress.org/wiki/Patrick_Leahy
+    :middlename: J.
+    :nickname: ""
+    :email: senator_leahy@leahy.senate.gov
+    :senate_class: III
+    :phone: 202-224-4242
+    :gender: M
+    :firstname: Patrick
+    :fec_id: S4VT00017
+    :webform: http://leahy.senate.gov/contact.html
+    :youtube_url: http://www.youtube.com/SenatorPatrickLeahy
+    :in_office: 1
+    :lastname: Leahy
+    :website: http://leahy.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53353"
+    :bioguide_id: L000174
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-3479
+  id: 55
+  govtrack_id: "300065"
+  first_name: Patrick
+  last_name: Leahy
+  state: VT
+  party: D
+  created_at: 2009-03-29 02:53:18 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400357"
+    :congress_office: 332 Dirksen Senate Office Building
+    :state: VT
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000528
+    :congresspedia_url: http://www.opencongress.org/wiki/Bernard_Sanders
+    :middlename: ""
+    :nickname: Bernie
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-5141
+    :gender: M
+    :firstname: Bernard
+    :fec_id: H8VT01016
+    :webform: http://sanders.senate.gov/comments/
+    :youtube_url: http://www.youtube.com/SenatorSanders
+    :in_office: 1
+    :lastname: Sanders
+    :website: http://sanders.senate.gov/
+    :district: Junior Seat
+    :party: I
+    :votesmart_id: "27110"
+    :bioguide_id: S000033
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0776
+  id: 56
+  govtrack_id: "400357"
+  first_name: Bernie
+  last_name: Sanders
+  state: VT
+  party: I
+  created_at: 2009-03-29 02:53:18 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412321"
+    :congress_office: B40c Dirksen Senate Office Building
+    :state: VA
+    :twitter_id: markwarner
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Mark_Warner
+    :middlename: R.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2023
+    :gender: M
+    :firstname: Mark
+    :fec_id: ""
+    :webform: http://warner.senate.gov/public/?p=EmailSenatorWarner
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Warner
+    :website: http://warner.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "535"
+    :bioguide_id: W000805
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-6295
+  id: 57
+  govtrack_id: "412321"
+  first_name: Mark
+  last_name: Warner
+  state: VA
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: Jr.
+    :govtrack_id: "412249"
+    :congress_office: 144 Russell Senate Office Building
+    :state: VA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00028058
+    :congresspedia_url: http://www.opencongress.org/wiki/James_Webb
+    :middlename: H.
+    :nickname: Jim
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4024
+    :gender: M
+    :firstname: James
+    :fec_id: S6VA00127
+    :webform: http://webb.senate.gov/contact/
+    :youtube_url: http://www.youtube.com/SenatorWebb
+    :in_office: 1
+    :lastname: Webb
+    :website: http://webb.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "60043"
+    :bioguide_id: W000803
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-6363
+  id: 58
+  govtrack_id: "412249"
+  first_name: Jim
+  last_name: Webb
+  state: VA
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300018"
+    :congress_office: 511 Dirksen Senate Office Building
+    :state: WA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00007836
+    :congresspedia_url: http://www.opencongress.org/wiki/Maria_Cantwell
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-3441
+    :gender: F
+    :firstname: Maria
+    :fec_id: S8WA00194
+    :webform: http://cantwell.senate.gov/contact/index.cfm
+    :youtube_url: http://www.youtube.com/SenatorCantwell
+    :in_office: 1
+    :lastname: Cantwell
+    :website: http://cantwell.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "27122"
+    :bioguide_id: C000127
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0514
+  id: 59
+  govtrack_id: "300018"
+  first_name: Maria
+  last_name: Cantwell
+  state: WA
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300076"
+    :congress_office: 173 Russell Senate Office Building
+    :state: WA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00007876
+    :congresspedia_url: http://www.opencongress.org/wiki/Patty_Murray
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-2621
+    :gender: F
+    :firstname: Patty
+    :fec_id: S2WA00189
+    :webform: http://murray.senate.gov/email/index.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Murray
+    :website: http://murray.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53358"
+    :bioguide_id: M001111
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-0238
+  id: 60
+  govtrack_id: "300076"
+  first_name: Patty
+  last_name: Murray
+  state: WA
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300016"
+    :congress_office: 311 Hart Senate Office Building
+    :state: WV
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00002200
+    :congresspedia_url: http://www.opencongress.org/wiki/Robert_Byrd
+    :middlename: C.
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-3954
+    :gender: M
+    :firstname: Robert
+    :fec_id: S6WV00014
+    :webform: http://byrd.senate.gov/byrd_email.html
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Byrd
+    :website: http://byrd.senate.gov
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53359"
+    :bioguide_id: B001210
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0002
+  id: 61
+  govtrack_id: "300016"
+  first_name: Robert
+  last_name: Byrd
+  state: WV
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: IV
+    :govtrack_id: "300084"
+    :congress_office: 531 Hart Senate Office Building
+    :state: WV
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001685
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Rockefeller
+    :middlename: D.
+    :nickname: Jay
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-6472
+    :gender: M
+    :firstname: John
+    :fec_id: S4WV00027
+    :webform: http://rockefeller.senate.gov/contact/email.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Rockefeller
+    :website: http://rockefeller.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53360"
+    :bioguide_id: R000361
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-7665
+  id: 62
+  govtrack_id: "300084"
+  first_name: Jay
+  last_name: Rockefeller
+  state: WV
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300042"
+    :congress_office: 506 Hart Senate Office Building
+    :state: WI
+    :twitter_id: russfeingold
+    :title: Sen
+    :crp_id: N00000036
+    :congresspedia_url: http://www.opencongress.org/wiki/Russell_Feingold
+    :middlename: D.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5323
+    :gender: M
+    :firstname: Russell
+    :fec_id: S8WI00026
+    :webform: http://feingold.senate.gov/contact_opinion.html
+    :youtube_url: http://www.youtube.com/SenRussFeingold
+    :in_office: 1
+    :lastname: Feingold
+    :website: http://feingold.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "53361"
+    :bioguide_id: F000061
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2725
+  id: 63
+  govtrack_id: "300042"
+  first_name: Russell
+  last_name: Feingold
+  state: WI
+  party: D
+  created_at: 2009-03-29 02:53:19 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300061"
+    :congress_office: 330 Hart Senate Office Building
+    :state: WI
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004309
+    :congresspedia_url: http://www.opencongress.org/wiki/Herbert_Kohl
+    :middlename: H.
+    :nickname: Herb
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-5653
+    :gender: M
+    :firstname: Herbert
+    :fec_id: S6WI00061
+    :webform: http://kohl.senate.gov/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Kohl
+    :website: http://kohl.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53362"
+    :bioguide_id: K000305
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-9787
+  id: 64
+  govtrack_id: "300061"
+  first_name: Herb
+  last_name: Kohl
+  state: WI
+  party: D
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412251"
+    :congress_office: 307 Dirksen Senate Office Building
+    :state: WY
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00006236
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Barrasso
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6441
+    :gender: M
+    :firstname: John
+    :fec_id: S6WY00068
+    :webform: http://barrasso.senate.gov/public/index.cfm?FuseAction=ContactUs.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Barrasso
+    :website: http://barrasso.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "52662"
+    :bioguide_id: B001261
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-1724
+  id: 65
+  govtrack_id: "412251"
+  first_name: John
+  last_name: Barrasso
+  state: WY
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300041"
+    :congress_office: 379a Russell Senate Office Building
+    :state: WY
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00006249
+    :congresspedia_url: http://www.opencongress.org/wiki/Michael_Enzi
+    :middlename: B.
+    :nickname: Mike
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-3424
+    :gender: M
+    :firstname: Michael
+    :fec_id: S6WY00126
+    :webform: http://enzi.senate.gov/public/index.cfm?FuseAction=ContactInformation.EmailSenatorEnzi
+    :youtube_url: http://www.youtube.com/SenatorEnzi
+    :in_office: 1
+    :lastname: Enzi
+    :website: http://enzi.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "558"
+    :bioguide_id: E000285
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0359
+  id: 66
+  govtrack_id: "300041"
+  first_name: Mike
+  last_name: Enzi
+  state: WY
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: III
+    :govtrack_id: "300088"
+    :congress_office: 335 Russell Senate Office Building
+    :state: AL
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003062
+    :congresspedia_url: http://www.opencongress.org/wiki/Jefferson_Sessions
+    :middlename: B.
+    :nickname: Jeff
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-4124
+    :gender: M
+    :firstname: Jefferson
+    :fec_id: S6AL00195
+    :webform: http://sessions.senate.gov/public/index.cfm?FuseAction=ConstituentServices.ContactMe
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Sessions
+    :website: http://sessions.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "443"
+    :bioguide_id: S001141
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-3149
+  id: 67
+  govtrack_id: "300088"
+  first_name: Jeff
+  last_name: Sessions
+  state: AL
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300089"
+    :congress_office: 304 Russell Senate Office Building
+    :state: AL
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009920
+    :congresspedia_url: http://www.opencongress.org/wiki/Richard_Shelby
+    :middlename: C.
+    :nickname: ""
+    :email: senator@shelby.senate.gov
+    :senate_class: III
+    :phone: 202-224-5744
+    :gender: M
+    :firstname: Richard
+    :fec_id: S6AL00013
+    :webform: http://shelby.senate.gov/resources/contact.htm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Shelby
+    :website: http://shelby.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53266"
+    :bioguide_id: S000320
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-3416
+  id: 68
+  govtrack_id: "300089"
+  first_name: Richard
+  last_name: Shelby
+  state: AL
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: III
+    :govtrack_id: "300071"
+    :congress_office: 241 Russell Senate Office Building
+    :state: AZ
+    :twitter_id: SenJohnMccain
+    :title: Sen
+    :crp_id: N00006424
+    :congresspedia_url: http://www.opencongress.org/wiki/John_McCain
+    :middlename: Sidney
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-2235
+    :gender: M
+    :firstname: John
+    :fec_id: S6AZ00019
+    :webform: http://mccain.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: McCain
+    :website: http://mccain.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53270"
+    :bioguide_id: M000303
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2862
+  id: 69
+  govtrack_id: "300071"
+  first_name: John
+  last_name: McCain
+  state: AZ
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400194"
+    :congress_office: 120 Russell Senate Office Building
+    :state: GA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00002593
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Isakson
+    :middlename: H.
+    :nickname: Johnny
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3643
+    :gender: M
+    :firstname: John
+    :fec_id: S6GA00119
+    :webform: http://isakson.senate.gov/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Isakson
+    :website: http://isakson.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "1721"
+    :bioguide_id: I000055
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0724
+  id: 70
+  govtrack_id: "400194"
+  first_name: Johnny
+  last_name: Isakson
+  state: GA
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300048"
+    :congress_office: 135 Hart Senate Office Building
+    :state: IA
+    :twitter_id: ChuckGrassley
+    :title: Sen
+    :crp_id: N00001758
+    :congresspedia_url: http://www.opencongress.org/wiki/Charles_Grassley
+    :middlename: E.
+    :nickname: Chuck
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3744
+    :gender: M
+    :firstname: Charles
+    :fec_id: S0IA00028
+    :webform: http://grassley.senate.gov/contact.cfm
+    :youtube_url: http://www.youtube.com/SenChuckGrassley
+    :in_office: 1
+    :lastname: Grassley
+    :website: http://grassley.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53293"
+    :bioguide_id: G000386
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-6020
+  id: 71
+  govtrack_id: "300048"
+  first_name: Chuck
+  last_name: Grassley
+  state: IA
+  party: R
+  created_at: 2009-03-29 02:53:20 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300013"
+    :congress_office: 303 Hart Senate Office Building
+    :state: KS
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00005244
+    :congresspedia_url: http://www.opencongress.org/wiki/Samuel_Brownback
+    :middlename: D.
+    :nickname: Sam
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-6521
+    :gender: M
+    :firstname: Samuel
+    :fec_id: S6KS00122
+    :webform: http://brownback.senate.gov/CMEmailMe.cfm
+    :youtube_url: http://www.youtube.com/SenatorSamBrownback
+    :in_office: 1
+    :lastname: Brownback
+    :website: http://brownback.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "21952"
+    :bioguide_id: B000953
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1265
+  id: 72
+  govtrack_id: "300013"
+  first_name: Sam
+  last_name: Brownback
+  state: KS
+  party: R
+  created_at: 2009-03-29 02:53:21 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412320"
+    :congress_office: 1 Russell Courtyard
+    :state: NE
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Mike_Johanns
+    :middlename: O.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-4224
+    :gender: M
+    :firstname: Mike
+    :fec_id: ""
+    :webform: http://johanns.senate.gov/public/?p=EmailSenatorJohanns
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Johanns
+    :website: http://johanns.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "21309"
+    :bioguide_id: J000291
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0436
+  id: 73
+  govtrack_id: "412320"
+  first_name: Mike
+  last_name: Johanns
+  state: NE
+  party: R
+  created_at: 2009-03-29 02:53:21 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400576"
+    :congress_office: 172 Russell Senate Office Building
+    :state: OK
+    :twitter_id: porkbarrel
+    :title: Sen
+    :crp_id: N00005601
+    :congresspedia_url: http://www.opencongress.org/wiki/Thomas_Allen_Coburn
+    :middlename: ""
+    :nickname: Tom
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5754
+    :gender: M
+    :firstname: Thomas Allen
+    :fec_id: S4OK00174
+    :webform: http://coburn.senate.gov/public/index.cfm?FuseAction=ContactSenatorCoburn.Home
+    :youtube_url: http://www.youtube.com/SenatorCoburn
+    :in_office: 1
+    :lastname: Coburn
+    :website: http://coburn.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "22085"
+    :bioguide_id: C000560
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-6008
+  id: 74
+  govtrack_id: "400576"
+  first_name: Tom
+  last_name: Coburn
+  state: OK
+  party: R
+  created_at: 2009-03-29 02:53:21 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300055"
+    :congress_office: 453 Russell Senate Office Building
+    :state: OK
+    :twitter_id: jiminhofe
+    :title: Sen
+    :crp_id: N00005582
+    :congresspedia_url: http://www.opencongress.org/wiki/James_Inhofe
+    :middlename: M.
+    :nickname: Jim
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-4721
+    :gender: M
+    :firstname: James
+    :fec_id: S4OK00083
+    :webform: http://inhofe.senate.gov/contactus.htm
+    :youtube_url: http://www.youtube.com/JimInhofePressOffice
+    :in_office: 1
+    :lastname: Inhofe
+    :website: http://inhofe.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "27027"
+    :bioguide_id: I000024
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0380
+  id: 75
+  govtrack_id: "300055"
+  first_name: Jim
+  last_name: Inhofe
+  state: OK
+  party: R
+  created_at: 2009-03-29 02:53:21 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400105"
+    :congress_office: 340 Russell Senate Office Building
+    :state: SC
+    :twitter_id: jimdemint
+    :title: Sen
+    :crp_id: N00002472
+    :congresspedia_url: http://www.opencongress.org/wiki/Jim_DeMint
+    :middlename: W.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-6121
+    :gender: M
+    :firstname: Jim
+    :fec_id: S4SC00083
+    :webform: http://demint.senate.gov/public/index.cfm?FuseAction=Contact.Home
+    :youtube_url: http://www.youtube.com/SenJimDeMint
+    :in_office: 1
+    :lastname: DeMint
+    :website: http://demint.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "25026"
+    :bioguide_id: D000595
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-5143
+  id: 76
+  govtrack_id: "400105"
+  first_name: Jim
+  last_name: DeMint
+  state: SC
+  party: R
+  created_at: 2009-03-29 02:53:21 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400546"
+    :congress_office: 493 Russell Senate Office Building
+    :state: SD
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00004572
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Thune
+    :middlename: R.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-2321
+    :gender: M
+    :firstname: John
+    :fec_id: S2SD00068
+    :webform: http://thune.senate.gov/public/index.cfm?FuseAction=Contact.Email
+    :youtube_url: http://www.youtube.com/JohnThune
+    :in_office: 1
+    :lastname: Thune
+    :website: http://thune.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "398"
+    :bioguide_id: T000250
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-5429
+  id: 77
+  govtrack_id: "400546"
+  first_name: John
+  last_name: Thune
+  state: SD
+  party: R
+  created_at: 2009-03-29 02:53:22 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412248"
+    :congress_office: 185 Dirksen Senate Office Building
+    :state: TN
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00027441
+    :congresspedia_url: http://www.opencongress.org/wiki/Bob_Corker
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-3344
+    :gender: M
+    :firstname: Bob
+    :fec_id: S6TN00216
+    :webform: http://corker.senate.gov/public/index.cfm?FuseAction=ContactInformation.ContactMe
+    :youtube_url: http://www.youtube.com/SenatorCorker
+    :in_office: 1
+    :lastname: Corker
+    :website: http://corker.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "65905"
+    :bioguide_id: C001071
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-0566
+  id: 78
+  govtrack_id: "412248"
+  first_name: Bob
+  last_name: Corker
+  state: TN
+  party: R
+  created_at: 2009-03-29 02:53:22 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400621"
+    :congress_office: 356 Russell Senate Office Building
+    :state: FL
+    :twitter_id: melmartinez
+    :title: Sen
+    :crp_id: N00026748
+    :congresspedia_url: http://www.opencongress.org/wiki/Melquiades_Martinez
+    :middlename: Rafael
+    :nickname: Mel
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3041
+    :gender: M
+    :firstname: Melquiades
+    :fec_id: S4FL00298
+    :webform: http://martinez.senate.gov/public/?p=EmailSenatorMartinez
+    :youtube_url: http://www.youtube.com/SenMartinezdotgov
+    :in_office: 1
+    :lastname: Martinez
+    :website: http://martinez.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "31193"
+    :bioguide_id: M001162
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-5171
+  id: 79
+  govtrack_id: "400621"
+  first_name: Mel
+  last_name: Martinez
+  state: FL
+  party: R
+  created_at: 2009-03-29 02:53:28 Z
+- updated_at: 2009-03-29 22:43:29 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300083"
+    :congress_office: 109 Hart Senate Office Building
+    :state: KS
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00005285
+    :congresspedia_url: http://www.opencongress.org/wiki/Pat_Roberts
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-4774
+    :gender: M
+    :firstname: Pat
+    :fec_id: S6KS00080
+    :webform: http://roberts.senate.gov/e-mail_pat.html
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Roberts
+    :website: http://roberts.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "26866"
+    :bioguide_id: R000307
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-3514
+  id: 80
+  govtrack_id: "300083"
+  first_name: Pat
+  last_name: Roberts
+  state: KS
+  party: R
+  created_at: 2009-03-29 02:53:28 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300010"
+    :congress_office: 274 Russell Senate Office Building
+    :state: MO
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00005178
+    :congresspedia_url: http://www.opencongress.org/wiki/Christopher_Bond
+    :middlename: S.
+    :nickname: Kit
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-5721
+    :gender: M
+    :firstname: Christopher
+    :fec_id: S6MO00289
+    :webform: http://bond.senate.gov/public/index.cfm?FuseAction=ContactUs.ContactForm
+    :youtube_url: http://www.youtube.com/CSBondMO
+    :in_office: 1
+    :lastname: Bond
+    :website: http://bond.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53313"
+    :bioguide_id: B000611
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-8149
+  id: 81
+  govtrack_id: "300010"
+  first_name: Kit
+  last_name: Bond
+  state: MO
+  party: R
+  created_at: 2009-03-29 02:53:28 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300049"
+    :congress_office: 393 Russell Senate Office Building
+    :state: NH
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000444
+    :congresspedia_url: http://www.opencongress.org/wiki/Judd_Gregg
+    :middlename: A.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3324
+    :gender: M
+    :firstname: Judd
+    :fec_id: S2NH00025
+    :webform: http://gregg.senate.gov/sitepages/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Gregg
+    :website: http://gregg.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53321"
+    :bioguide_id: G000445
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-4952
+  id: 82
+  govtrack_id: "300049"
+  first_name: Judd
+  last_name: Gregg
+  state: NH
+  party: R
+  created_at: 2009-03-29 02:53:29 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300098"
+    :congress_office: 524 Hart Senate Office Building
+    :state: OH
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003583
+    :congresspedia_url: http://www.opencongress.org/wiki/George_Voinovich
+    :middlename: V.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3353
+    :gender: M
+    :firstname: George
+    :fec_id: S8OH00011
+    :webform: http://voinovich.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Voinovich
+    :website: http://voinovich.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "21745"
+    :bioguide_id: V000126
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1382
+  id: 83
+  govtrack_id: "300098"
+  first_name: George
+  last_name: Voinovich
+  state: OH
+  party: R
+  created_at: 2009-03-29 02:53:29 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300047"
+    :congress_office: 290 Russell Senate Office Building
+    :state: SC
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009975
+    :congresspedia_url: http://www.opencongress.org/wiki/Lindsey_Graham
+    :middlename: O.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5972
+    :gender: M
+    :firstname: Lindsey
+    :fec_id: S0SC00149
+    :webform: http://lgraham.senate.gov/public/index.cfm?FuseAction=Contact.EmailSenatorGraham
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Graham
+    :website: http://lgraham.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "21992"
+    :bioguide_id: G000359
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-3808
+  id: 84
+  govtrack_id: "300047"
+  first_name: Lindsey
+  last_name: Graham
+  state: SC
+  party: R
+  created_at: 2009-03-29 02:53:29 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300062"
+    :congress_office: 730 Hart Senate Office Building
+    :state: AZ
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00006406
+    :congresspedia_url: http://www.opencongress.org/wiki/Jon_Kyl
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4521
+    :gender: M
+    :firstname: Jon
+    :fec_id: S4AZ00030
+    :webform: http://kyl.senate.gov/contact.cfm
+    :youtube_url: http://www.youtube.com/SenJonKyl
+    :in_office: 1
+    :lastname: Kyl
+    :website: http://kyl.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "26721"
+    :bioguide_id: K000352
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2207
+  id: 85
+  govtrack_id: "300062"
+  first_name: Jon
+  last_name: Kyl
+  state: AZ
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300021"
+    :congress_office: 416 Russell Senate Office Building
+    :state: GA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00002685
+    :congresspedia_url: http://www.opencongress.org/wiki/C._Saxby_Chambliss
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-3521
+    :gender: M
+    :firstname: C. Saxby
+    :fec_id: S2GA00118
+    :webform: http://chambliss.senate.gov/public/index.cfm?FuseAction=ContactUs.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Chambliss
+    :website: http://chambliss.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "22029"
+    :bioguide_id: C000286
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-0103
+  id: 86
+  govtrack_id: "300021"
+  first_name: C. Saxby
+  last_name: Chambliss
+  state: GA
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300072"
+    :congress_office: 361-a Russell Senate Office Building
+    :state: KY
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003389
+    :congresspedia_url: http://www.opencongress.org/wiki/Mitch_McConnell
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2541
+    :gender: M
+    :firstname: Mitch
+    :fec_id: S2KY00012
+    :webform: http://mcconnell.senate.gov/contact_form.cfm
+    :youtube_url: http://www.youtube.com/RepublicanLeader
+    :in_office: 1
+    :lastname: McConnell
+    :website: http://mcconnell.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53298"
+    :bioguide_id: M000355
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2499
+  id: 87
+  govtrack_id: "300072"
+  first_name: Mitch
+  last_name: McConnell
+  state: KY
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400418"
+    :congress_office: 516 Hart Senate Office Building
+    :state: LA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009659
+    :congresspedia_url: http://www.opencongress.org/wiki/David_Vitter
+    :middlename: B.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-4623
+    :gender: M
+    :firstname: David
+    :fec_id: S4LA00057
+    :webform: http://vitter.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Vitter
+    :website: http://vitter.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "4615"
+    :bioguide_id: V000127
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-5061
+  id: 88
+  govtrack_id: "400418"
+  first_name: David
+  last_name: Vitter
+  state: LA
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300040"
+    :congress_office: 119 Russell Senate Office Building
+    :state: NV
+    :twitter_id: johnensign
+    :title: Sen
+    :crp_id: N00006619
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Ensign
+    :middlename: Eric
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-6244
+    :gender: M
+    :firstname: John
+    :fec_id: S8NV00073
+    :webform: http://ensign.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: http://www.youtube.com/SenatorEnsign
+    :in_office: 1
+    :lastname: Ensign
+    :website: http://ensign.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "22139"
+    :bioguide_id: E000194
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2193
+  id: 89
+  govtrack_id: "300040"
+  first_name: John
+  last_name: Ensign
+  state: NV
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400054"
+    :congress_office: 217 Russell Senate Office Building
+    :state: NC
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00002221
+    :congresspedia_url: http://www.opencongress.org/wiki/Richard_Burr
+    :middlename: M.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-3154
+    :gender: M
+    :firstname: Richard
+    :fec_id: S4NC00089
+    :webform: http://burr.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: http://www.youtube.com/senatorrichardburr
+    :in_office: 1
+    :lastname: Burr
+    :website: http://burr.senate.gov
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "21787"
+    :bioguide_id: B001135
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2981
+  id: 90
+  govtrack_id: "400054"
+  first_name: Richard
+  last_name: Burr
+  state: NC
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300092"
+    :congress_office: 711 Hart Senate Office Building
+    :state: PA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00001604
+    :congresspedia_url: http://www.opencongress.org/wiki/Arlen_Specter
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-4254
+    :gender: M
+    :firstname: Arlen
+    :fec_id: S6PA00100
+    :webform: http://specter.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Specter
+    :website: http://specter.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53340"
+    :bioguide_id: S000709
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1229
+  id: 91
+  govtrack_id: "300092"
+  first_name: Arlen
+  last_name: Specter
+  state: PA
+  party: R
+  created_at: 2009-03-29 02:53:30 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300002"
+    :congress_office: 455 Dirksen Senate Office Building
+    :state: TN
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00009888
+    :congresspedia_url: http://www.opencongress.org/wiki/Lamar_Alexander
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-4944
+    :gender: M
+    :firstname: Lamar
+    :fec_id: S2TN00058
+    :webform: http://alexander.senate.gov/public/index.cfm?FuseAction=Contact.Home
+    :youtube_url: http://www.youtube.com/lamaralexander
+    :in_office: 1
+    :lastname: Alexander
+    :website: http://alexander.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "15691"
+    :bioguide_id: A000360
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-3398
+  id: 92
+  govtrack_id: "300002"
+  first_name: Lamar
+  last_name: Alexander
+  state: TN
+  party: R
+  created_at: 2009-03-29 02:53:31 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300027"
+    :congress_office: 517 Hart Senate Office Building
+    :state: TX
+    :twitter_id: JohnCornyn
+    :title: Sen
+    :crp_id: N00024852
+    :congresspedia_url: http://www.opencongress.org/wiki/John_Cornyn
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-2934
+    :gender: M
+    :firstname: John
+    :fec_id: S2TX00106
+    :webform: http://cornyn.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: http://www.youtube.com/senjohncornyn
+    :in_office: 1
+    :lastname: Cornyn
+    :website: http://cornyn.senate.gov/
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "15375"
+    :bioguide_id: C001056
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-2856
+  id: 93
+  govtrack_id: "300027"
+  first_name: John
+  last_name: Cornyn
+  state: TX
+  party: R
+  created_at: 2009-03-29 02:53:31 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300054"
+    :congress_office: 284 Russell Senate Office Building
+    :state: TX
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00005675
+    :congresspedia_url: http://www.opencongress.org/wiki/Kay_Hutchison
+    :middlename: Bailey
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-5922
+    :gender: F
+    :firstname: Kay
+    :fec_id: S4TX00086
+    :webform: http://hutchison.senate.gov/contact.html
+    :youtube_url: http://www.youtube.com/SenatorHutchison
+    :in_office: 1
+    :lastname: Hutchison
+    :website: http://hutchison.senate.gov/
+    :district: Senior Seat
+    :party: R
+    :votesmart_id: "53349"
+    :bioguide_id: H001016
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-0776
+  id: 94
+  govtrack_id: "300054"
+  first_name: Kay
+  last_name: Hutchison
+  state: TX
+  party: R
+  created_at: 2009-03-29 02:53:31 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: false
+  meta: 
+    :name_suffix: Jr.
+    :govtrack_id: "300008"
+    :congress_office: ""
+    :state: DE
+    :twitter_id: joebiden
+    :title: Sen
+    :crp_id: N00001669
+    :congresspedia_url: http://www.opencongress.org/wiki/Joseph_Biden
+    :middlename: R.
+    :nickname: ""
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5042
+    :gender: M
+    :firstname: Joseph
+    :fec_id: S8DE00012
+    :webform: ""
+    :youtube_url: ""
+    :in_office: 0
+    :lastname: Biden
+    :website: ""
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53279"
+    :bioguide_id: B000444
+    :fuzzy_score: 1.0
+    :event_id: 
+    :fax: 202-224-0139
+  id: 95
+  govtrack_id: "300008"
+  first_name: Joseph
+  last_name: Biden
+  state: DE
+  party: D
+  created_at: 2009-03-29 02:53:36 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412330"
+    :congress_office: 702 Hart Senate Office Building
+    :state: CO
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Michael_Bennet
+    :middlename: ""
+    :nickname: ""
+    :email: senator_bennet@bennet.senate.gov
+    :senate_class: III
+    :phone: 202-224-5852
+    :gender: ""
+    :firstname: Michael
+    :fec_id: ""
+    :webform: http://bennet.senate.gov/public/?p=TransitionalSiteEmailSenatorBennet
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Bennet
+    :website: http://bennet.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "110942"
+    :bioguide_id: B001267
+    :fuzzy_score: 
+    :event_id: 
+    :fax: ""
+  id: 96
+  govtrack_id: "412330"
+  first_name: Michael
+  last_name: Bennet
+  state: CO
+  party: D
+  created_at: 2009-03-29 02:53:42 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412329"
+    :congress_office: G11 Dirksen Senate Office Building
+    :state: DE
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Edward_Kaufman
+    :middlename: E.
+    :nickname: Ted
+    :email: ""
+    :senate_class: II
+    :phone: 202-224-5042
+    :gender: ""
+    :firstname: Edward
+    :fec_id: ""
+    :webform: http://kaufman.senate.gov/services/contact/
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Kaufman
+    :website: http://kaufman.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "110918"
+    :bioguide_id: K000373
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-3075
+  id: 97
+  govtrack_id: "412329"
+  first_name: Ted
+  last_name: Kaufman
+  state: DE
+  party: D
+  created_at: 2009-03-29 02:53:43 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412328"
+    :congress_office: 523 Dirksen Senate Office Building
+    :state: IL
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: ""
+    :congresspedia_url: http://www.opencongress.org/wiki/Roland_Burris
+    :middlename: W.
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-2854
+    :gender: M
+    :firstname: Roland
+    :fec_id: ""
+    :webform: http://burris.senate.gov/contact/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Burris
+    :website: http://burris.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "18168"
+    :bioguide_id: B001266
+    :fuzzy_score: 
+    :event_id: 
+    :fax: ""
+  id: 98
+  govtrack_id: "412328"
+  first_name: Roland
+  last_name: Burris
+  state: IL
+  party: D
+  created_at: 2009-03-29 02:53:43 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: Sr.
+    :govtrack_id: "300059"
+    :congress_office: 317 Russell Senate Office Building
+    :state: MA
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00000308
+    :congresspedia_url: http://www.opencongress.org/wiki/Edward_Kennedy
+    :middlename: M.
+    :nickname: Ted
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4543
+    :gender: M
+    :firstname: Edward
+    :fec_id: S6MA00015
+    :webform: http://kennedy.senate.gov/senator/contact.cfm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Kennedy
+    :website: http://kennedy.senate.gov/
+    :district: Senior Seat
+    :party: D
+    :votesmart_id: "53305"
+    :bioguide_id: K000105
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-224-2417
+  id: 99
+  govtrack_id: "300059"
+  first_name: Ted
+  last_name: Kennedy
+  state: MA
+  party: D
+  created_at: 2009-03-29 02:53:43 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "412223"
+    :congress_office: 531 Dirksen Senate Office Building
+    :state: NY
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00027658
+    :congresspedia_url: http://www.opencongress.org/wiki/Kirsten_Gillibrand
+    :middlename: E.
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-4451
+    :gender: F
+    :firstname: Kirsten
+    :fec_id: H6NY20167
+    :webform: ""
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Gillibrand
+    :website: http://gillibrand.senate.gov
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "65147"
+    :bioguide_id: G000555
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-225-1168
+  id: 100
+  govtrack_id: "412223"
+  first_name: Kirsten
+  last_name: Gillibrand
+  state: NY
+  party: D
+  created_at: 2009-03-29 02:53:43 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "400050"
+    :congress_office: 455 Russell Senate Office Building
+    :state: OH
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003535
+    :congresspedia_url: http://www.opencongress.org/wiki/Sherrod_Brown
+    :middlename: C.
+    :nickname: ""
+    :email: ""
+    :senate_class: I
+    :phone: 202-224-2315
+    :gender: M
+    :firstname: Sherrod
+    :fec_id: H2OH13033
+    :webform: http://brown.senate.gov/contact/
+    :youtube_url: http://www.youtube.com/SherrodBrownOhio
+    :in_office: 1
+    :lastname: Brown
+    :website: http://brown.senate.gov/
+    :district: Junior Seat
+    :party: D
+    :votesmart_id: "27018"
+    :bioguide_id: B000944
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-6321
+  id: 101
+  govtrack_id: "400050"
+  first_name: Sherrod
+  last_name: Brown
+  state: OH
+  party: D
+  created_at: 2009-03-29 02:53:44 Z
+- updated_at: 2009-03-29 22:43:30 Z
+  in_office: true
+  meta: 
+    :name_suffix: ""
+    :govtrack_id: "300014"
+    :congress_office: 316 Hart Senate Office Building
+    :state: KY
+    :twitter_id: ""
+    :title: Sen
+    :crp_id: N00003437
+    :congresspedia_url: http://www.opencongress.org/wiki/Jim_Bunning
+    :middlename: ""
+    :nickname: ""
+    :email: ""
+    :senate_class: III
+    :phone: 202-224-4343
+    :gender: M
+    :firstname: Jim
+    :fec_id: S8KY00118
+    :webform: http://bunning.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm
+    :youtube_url: ""
+    :in_office: 1
+    :lastname: Bunning
+    :website: http://bunning.senate.gov
+    :district: Junior Seat
+    :party: R
+    :votesmart_id: "26874"
+    :bioguide_id: B001066
+    :fuzzy_score: 
+    :event_id: 
+    :fax: 202-228-1373
+  id: 102
+  govtrack_id: "300014"
+  first_name: Jim
+  last_name: Bunning
+  state: KY
+  party: R
+  created_at: 2009-03-29 02:53:44 Z
+- updated_at: 2009-03-29 23:45:02 Z
+  in_office: 
+  meta: 
+  id: 103
+  govtrack_id: "300094"
+  first_name: Ted
+  last_name: Stevens
+  state: 
+  party: 
+  created_at: 2009-03-29 23:45:02 Z
+- updated_at: 2009-03-29 23:45:02 Z
+  in_office: 
+  meta: 
+  id: 104
+  govtrack_id: "300003"
+  first_name: Wayne
+  last_name: Allard
+  state: 
+  party: 
+  created_at: 2009-03-29 23:45:02 Z
+- updated_at: 2009-03-29 23:45:03 Z
+  in_office: 
+  meta: 
+  id: 105
+  govtrack_id: "300029"
+  first_name: Larry
+  last_name: Craig
+  state: 
+  party: 
+  created_at: 2009-03-29 23:45:03 Z
+- updated_at: 2009-03-29 23:45:03 Z
+  in_office: 
+  meta: 
+  id: 106
+  govtrack_id: "400629"
+  first_name: Barack
+  last_name: Obama
+  state: 
+  party: 
+  created_at: 2009-03-29 23:45:03 Z
+- updated_at: 2009-03-29 23:45:04 Z
+  in_office: 
+  meta: 
+  id: 107
+  govtrack_id: "300024"
+  first_name: Norm
+  last_name: Coleman
+  state: 
+  party: 
+  created_at: 2009-03-29 23:45:04 Z
+- updated_at: 2009-03-29 23:45:32 Z
+  in_office: 
+  meta: 
+  id: 108
+  govtrack_id: "300090"
+  first_name: Gordon Harold
+  last_name: Smith
+  state: 
+  party: 
+  created_at: 2009-03-29 23:45:32 Z
+- updated_at: 2009-03-29 23:49:13 Z
+  in_office: 
+  meta: 
+  id: 109
+  govtrack_id: "300099"
+  first_name: John
+  last_name: Warner
+  state: 
+  party: 
+  created_at: 2009-03-29 23:49:13 Z
+- updated_at: 2009-03-29 23:49:14 Z
+  in_office: 
+  meta: 
+  id: 111
+  govtrack_id: "300050"
+  first_name: Chuck
+  last_name: Hagel
+  state: 
+  party: 
+  created_at: 2009-03-29 23:49:14 Z
+- updated_at: 2009-03-29 23:49:14 Z
+  in_office: 
+  meta: 
+  id: 112
+  govtrack_id: "300095"
+  first_name: John
+  last_name: Sununu
+  state: 
+  party: 
+  created_at: 2009-03-29 23:49:14 Z
+- updated_at: 2009-03-29 23:49:14 Z
+  in_office: 
+  meta: 
+  id: 113
+  govtrack_id: "300036"
+  first_name: Pete
+  last_name: Domenici
+  state: 
+  party: 
+  created_at: 2009-03-29 23:49:14 Z
+- updated_at: 2009-03-29 23:49:15 Z
+  in_office: 
+  meta: 
+  id: 114
+  govtrack_id: "300035"
+  first_name: Elizabeth
+  last_name: Dole
+  state: 
+  party: 
+  created_at: 2009-03-29 23:49:15 Z
+- updated_at: 2009-03-29 23:49:15 Z
+  in_office: 
+  meta: 
+  id: 115
+  govtrack_id: "300097"
+  first_name: Tom
+  last_name: Carper
+  state: 
+  party: 
+  created_at: 2009-03-29 23:49:15 Z
+- updated_at: 2009-03-29 23:52:52 Z
+  in_office: 
+  meta: 
+  id: 120
+  govtrack_id: 
+  first_name: Trent
+  last_name: Lott
+  state: 
+  party: 
+  created_at: 2009-03-29 23:52:52 Z

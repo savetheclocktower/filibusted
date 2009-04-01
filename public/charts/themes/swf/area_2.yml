@@ -1,0 +1,101 @@
+<%=chart :area %>
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    ffffff
+        alpha:    10
+        rotation: 0
+        bold:     true
+        size:     30
+        x:        0
+        y:        140
+        width:    400
+        height:   150
+        h_align:  center
+        v_align:  bottom
+        text:     |||||||||||||||||||||||||||||||||||||||||||||||
+        
+  <%=component :axis_category %>
+    size: 14
+    alpha: 50
+    bold: true
+    orientation: horizontal
+    color: 000000
+    font: arial
+    skip: 0
+
+  <%=component :axis_ticks %>
+    value_ticks: true
+    minor_color: 222222
+    minor_count: 1
+    major_thickness: 2
+    major_color: 000000
+    position: outside
+    category_ticks: true
+    minor_thickness: 1
+
+  <%=component :axis_value %>
+    steps: 6
+    prefix: 
+    size: 10
+    alpha: 50
+    bold: true
+    separator: 
+    decimals: 0
+    color: ffffff
+    font: arial
+    show_min: false
+    suffix: 
+
+  <%=component :chart_border %>
+    top_thickness: 2
+    bottom_thickness: 2
+    left_thickness: 2
+    color: 000000
+    right_thickness: 2
+
+  <%=component :chart_grid_h %>
+    alpha: 20
+    thickness: 1
+    color: ff0000
+
+  <%=component :chart_grid_v %>
+    alpha: 20
+    thickness: 1
+    color: ff0000
+
+  <%=component :chart_rect %>
+    x: 150
+    positive_alpha: 50
+    y: 25
+    height: 235
+    positive_color: ffffff
+    negative_color: ff0000
+    negative_alpha: 10
+    width: 220
+
+  <%=component :legend_label %>
+    size: 13
+    alpha: 75
+    bullet: circle
+    bold: true
+    color: ffffff
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 20
+    x: 15
+    fill_alpha: 5
+    y: 30
+    margin: 10
+    line_color: 000000
+    height: 75
+    fill_color: 000000
+    line_thickness: 0
+    width: 70
+    
+  <%=component :series_color %>
+    colors: 564546,4e627c
+    

@@ -1,0 +1,40 @@
+8
+
+dir
+393
+svn://rubyforge.org/var/svn/liquidrail/samples/charting/public/charts/themes
+svn://rubyforge.org/var/svn/liquidrail
+
+
+
+2007-02-25T16:35:41.330154Z
+252
+derailed
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2d54dbb9-7cab-4c4a-8fcd-1a8ab40d1d55
+
+swf
+dir
+
+default
+dir
+
+commando
+dir
+
+train
+dir
+

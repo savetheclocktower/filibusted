@@ -1,0 +1,49 @@
+
+<div class="sky">
+  <div class="elastic index-sky pngfix">
+
+    <h2>Hold senators accountable<br />
+      for blocking legislation.</h2>
+      
+    <p>Some senators like to filibuster and keep the majority from having their way. You might think they&#8217;re <u>heroes</u>. Or <u>jackasses</u>. Either way, they&#8217;re worth keeping track of.</p>
+    
+  </div> <!-- .elastic -->
+</div> <!-- .sky -->
+
+<div class="paper">
+  <div class="elastic clearfix">
+    
+    <div class="column column-4">
+      
+      <h3>Recently filibustered</h3>
+
+      <p>Here are the three most recent attempts to stall legislation in the U.S. Senate.</p>
+
+      <ul>
+        <% @recent.each do |vote| %>
+        <li>
+          
+          <b><%= link_to "Roll Call ##{vote.roll_call}", :controller => :votes, :action => :show,
+          :params => { :id => vote.govtrack_id } %>:</b>
+          Filibuster <b><%= vote.passed? ? "failed" : "succeeded" %></b> on <%= link_to_voteable vote.voteable %> <%= vote.passed? ? "" : "failed" %> on <%= vote.date_of_vote.to_s %>.
+        </li>
+        <% end %>
+      </ul>
+      
+    </div> <!-- .column-->
+    
+    <div class="column column-4">
+      
+      <h3>Notable obstructionists</h3>
+      
+      <p>A few of the antagonists who vote to prolong filibusters most often.</p>
+      
+      <div class="clearfix index-trading-cards">
+        <%= render :partial => "senators/trading_card", :collection => @notable, :as => :senator %>
+      </div>
+      
+    </div> <!-- .column -->
+    
+    
+  </div> <!-- .elastic -->
+</div> <!-- .paper -->

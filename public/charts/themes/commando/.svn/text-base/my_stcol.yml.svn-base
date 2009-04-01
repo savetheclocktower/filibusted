@@ -1,0 +1,26 @@
+<%=chart :stacked_column%> 
+  # Add some effects 
+  <%=component :chart_transition%>
+    type:     drop
+    duration: 0.5
+  # Add refresh thread  
+  <%=component :live_update %>
+    url: "/tutor/refresh_stacked_column"
+    delay: 5
+  # Display some text      
+  <%= comp :draw %>   
+    components:         
+      - <%= drawing :text %>
+        transition: drop
+        delay:      0
+        duration:   0.5
+        bold:       true
+        rotation:   0
+        color:      657F5C
+        alpha:      50
+        size:       25
+        x:          50
+        y:          230
+        width:      330
+        h_align:    center
+        text:       More drama       

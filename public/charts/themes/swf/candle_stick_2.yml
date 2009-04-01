@@ -1,0 +1,102 @@
+<%=chart :candle_stick %>
+        
+  <%=component :axis_category %>
+    alpha: 0
+
+  <%=component :axis_ticks %>
+    value_ticks: 
+    major_thickness: 1
+    category_ticks: 1
+
+  <%=component :axis_value %>
+    steps: 4
+    size: 10
+    alpha: 65
+    color: ffffff
+    show_min: 
+
+  <%=component :chart_border %>
+    bottom_thickness: 5
+    left_thickness: 0
+    color: 222222
+
+  <%=component :chart_grid_h %>
+    alpha: 10
+    thickness: 1
+    color: 000000
+
+  <%=component :chart_grid_v %>
+    alpha: 5
+    thickness: 10
+    color: 000000
+
+  <%=component :chart_pref %>
+    bull_color: ffffff
+    bear_color: ff4400
+    type: bar
+    line_thickness: 2
+
+  <%=component :chart_rect %>
+    x: 92
+    positive_alpha: 20
+    y: 42
+    height: 150
+    positive_color: 000000
+    width: 275
+
+  <%=component :chart_transition %>
+    delay: 0.5
+    order: all
+    type: zoom
+    duration: 0.5
+
+  <%=component :chart_value %>
+    background_color: aaffff
+    size: 12
+    alpha: 90
+    color: 000000
+    position: cursor
+
+  <%=component :legend_rect %>
+    x: -100
+    y: -100
+    height: 10
+    width: 10
+    
+  <%=component :draw %>   
+    components:  
+      - <%=drawing :circle %>
+        layer:      background
+        fill_color: '000000'
+        x:          40
+        y:          400
+        radius:     400
+        fill_alpha: 10
+        line_alpha: 0            
+      - <%=drawing :text %>
+        color:    '000000'
+        alpha:    5
+        size:     100
+        x:        0
+        y:        220
+        width:    400
+        height:   200
+        text:     |||||||||||||||||||||||||||||||||||||||
+      - <%=drawing :text %>
+        color:    '444466'
+        alpha:    100
+        size:     100
+        x:        75
+        y:        180
+        width:    400
+        height:   200
+        text:     DSPIX
+      - <%=drawing :text %>
+        color:    666688
+        alpha:    100
+        size:     100
+        x:        75
+        y:        180
+        width:    400
+        height:   200
+        text:     D        

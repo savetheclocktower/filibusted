@@ -1,0 +1,103 @@
+<%=chart :bar %>
+  <%=component :axis_category %>
+    size:        12
+    color:       ff8844
+    alpha:       85
+    skip:        0
+    bold:        true
+
+  <%=component :axis_ticks %>
+    value_ticks:     true
+    category_ticks:  true
+    major_thickness: 2
+    minor_thickness: 1
+    minor_count:     1
+    major_color:     222222
+    minor_color:     222222
+    position:        centered
+  
+  <%=component :axis_value %>
+    bold:      true
+    size:      10
+    color:     ffffff
+    skip:      0
+    alpha:     30
+    steps:      6
+    show_min:  true
+
+  <%=component :chart_border %>
+    top_thickness:    1
+    bottom_thickness: 1
+    left_thickness:   3
+    right_thickness:  1 
+    
+  <%=component :chart_grid_h %>
+    thickness: 1
+    color:     000000
+    alpha:     20
+    type:      dashed    
+
+  <%=component :chart_grid_v %>
+    thickness: 1
+    color:     000000
+    alpha:     20
+            
+  <%=component :chart_rect %>
+    positive_color: ffffff      
+    positive_alpha: 35
+    negative_color: ff0000
+    negative_alpha: 10
+    x:              50
+    y:              30 
+    height:         230
+    width:          320   
+
+  <%=component :chart_transition %>
+    type:     scale
+    order:    category  
+    duration: 0.2
+    delay:    0.5
+
+  <%=component :chart_value %>
+    position: right
+    color:    ffffff
+    size:     10
+    alpha:    50
+    position: center
+    as_percentage: false
+     
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    eeeeff
+        alpha:    35
+        size:     45
+        x:        220
+        y:        18
+        width:    300
+        height:   240
+        h_align:  left
+        v_align:  bottom
+        text:     growth
+        
+      - <%=drawing :text %>
+        color:    '000044'
+        alpha:    35
+        size:     60
+        rotation: -90
+        x:        -41
+        y:        270
+        width:    300
+        height:   100
+        h_align:  left
+        v_align:  bottom
+        text:     y  e  a   r
+    
+  <%=component :legend_rect %>
+    x:          -100
+    y:          -100
+    width:      10
+    height:     10
+        
+  <%=component :series_color %>
+    colors: 4e627c,c89341,4c6b41

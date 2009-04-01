@@ -1,0 +1,197 @@
+<%=chart :floating_bar %>
+  <%=component :axis_category %>
+    size: 11
+    alpha: 100
+    color: 'ffffff'
+    bold: true
+    
+  <%=component :axis_ticks %>
+    value_ticks: true
+    minor_color: '222222'
+    minor_count: 0
+    major_thickness: 1
+    major_color: '222222'
+    position: centered
+    category_ticks: true
+    minor_thickness: 0
+
+  <%=component :axis_value %>
+    steps: 12
+    size: 8
+    alpha: 60
+    max: 365
+    color: '000000'
+    min: 0
+
+  <%=component :chart_border %>
+    top_thickness: 0
+    bottom_thickness: 0
+    left_thickness: 0
+    color: '000088'
+    right_thickness: 0
+
+  <%=component :chart_grid_h %>
+    alpha: 20
+    thickness: 1
+    type: dashed
+    color: '000000'
+
+  <%=component :chart_grid_v %>
+    alpha: 100
+    thickness: 1
+    color: 'ee6666'
+
+  <%=component :chart_rect %>
+    x: 100
+    positive_alpha: 10
+    y: 100
+    height: 150
+    positive_color: '000000'
+    width: 275
+
+  <%=component :chart_transition %>
+    delay: 0
+    order: all
+    type: slide_right
+    duration: 0.6
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :rect %>
+        transition:    slide_right
+        delay:         0
+        duration:      0.5
+        fill_color:    '000000'
+        fill_alpha:    20
+        alpha:         75
+        size:          36
+        x:             25
+        y:             100
+        width:         74
+        height:        150
+        line_tickness: 0    
+      - <%=drawing :text %>
+        transition: drop
+        delay:      0
+        duration:  2
+        color:    'ffffaa'
+        alpha:    75
+        size:     36
+        x:        0
+        y:        65
+        width:    400
+        height:   240
+        h_align:  center
+        text:     production schedule
+        
+      - <%=drawing :text %>
+        transition: slide_right
+        delay:      0
+        duration:  0.5
+        color:      '000000'
+        alpha:      70
+        size:       9
+        x:          <%= @options[:data_points][0]+7 %>
+        y:          108
+        text:       Alpha
+      - <%=drawing :line %>
+        transition:    slide_right
+        delay:         0
+        duration:     0.5
+        line_color:    'ffff00'
+        line_alpha:    75
+        line_tickness: 1
+        x1:            <%= @options[:data_points][0] %>
+        y1:            130
+        x2:            <%= @options[:data_points][0] %>
+        y2:             250
+      - <%=drawing :circle %>
+        transition: slide_right
+        delay:          0
+        duration:      0.5
+        fill_color:     'ffff00'
+        fill_alpha:     90
+        fill_thickness: 0
+        x:              <%= @options[:data_points][0] %>
+        y:              115
+        radius:         4
+        
+      - <%=drawing :text %>
+        transition: slide_right
+        delay:      0
+        duration:  0.5
+        color:      '000000'
+        alpha:      70
+        size:       9
+        x:          <%= @options[:data_points][1]+7 %>
+        y:          123
+        text:       Beta
+      - <%=drawing :line %>
+        transition:    slide_right
+        delay:         0
+        duration:     0.5
+        line_color:    'ffff00'
+        line_alpha:    75
+        line_tickness: 1
+        x1:            <%= @options[:data_points][1] %>
+        y1:            130
+        x2:            <%= @options[:data_points][1] %>
+        y2:             250
+      - <%=drawing :circle %>
+        transition: slide_right
+        delay:          0
+        duration:      0.5
+        fill_color:     'ffff00'
+        fill_alpha:     90
+        fill_thickness: 0
+        x:              <%= @options[:data_points][1] %>
+        y:              130
+        radius:         4
+        
+      - <%=drawing :text %>
+        transition: slide_right
+        delay:      0
+        duration:  0.5
+        color:      '000000'
+        alpha:      70
+        size:       9
+        x:          <%= @options[:data_points][2]+7 %>
+        y:          138
+        text:       'Shipping date'
+      - <%=drawing :line %>
+        transition:    slide_right
+        delay:         0
+        duration:     0.5
+        line_color:    'ffff00'
+        line_alpha:    75
+        line_tickness: 1
+        x1:            <%= @options[:data_points][2] %>
+        y1:            145
+        x2:            <%= @options[:data_points][2] %>
+        y2:             250
+      - <%=drawing :circle %>
+        transition: slide_right
+        delay:          0
+        duration:      0.5
+        fill_color:     'ffff00'
+        fill_alpha:     90
+        fill_thickness: 0
+        x:              <%= @options[:data_points][2] %>
+        y:              145
+        radius:         4        
+      
+  <%=component :legend_rect %>
+    x: -100
+    y: -100
+    height: 10
+    width: 10
+
+  <%=component :series_color %>
+    colors: ffffff,aa88ff,aaff88,aaff88,aa88ff
+    
+  <%=component :series_gap %>
+    set_gap: 50
+    bar_gap: 0
+    
+  <%=component :series_switch %>
+    switch: true      

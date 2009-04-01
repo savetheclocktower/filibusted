@@ -1,0 +1,88 @@
+<%=chart :column_threed %>
+
+  <%=component :axis_category %>
+    size: 10
+    alpha: 75
+    orientation: diagonal_up
+    color: FFFFFF
+    skip: 0
+
+  <%=component :axis_ticks %>
+    value_ticks: false
+    category_ticks: false
+
+  <%=component :axis_value %>
+    alpha: 0
+
+  <%=component :chart_border %>
+    top_thickness: 0
+    bottom_thickness: 0
+    left_thickness: 0
+    right_thickness: 0
+
+  <%=component :chart_grid_h %>
+    thickness: 0
+
+  <%=component :chart_grid_v %>
+    thickness: 0
+
+  <%=component :chart_rect %>
+    x: -70
+    positive_alpha: 0
+    y: -35
+    height: 250
+    width: 500
+
+  <%=component :chart_pref %>
+    rotation_x: 20
+    rotation_y: 50
+
+  <%=component :chart_transition %>
+    delay: 0
+    order: series
+    type: slide_left
+    duration: 1
+
+  <%=component :chart_value %>
+    prefix: 
+    as_percentage: true
+    alpha: 80
+    size: 12
+    separator: 
+    decimals: 0
+    color: 000000
+    hide_zero: true
+    position: cursor
+    suffix: 
+
+  <%=component :legend_label %>
+    size: 12
+    alpha: 50
+    bold: true
+    color: 000000
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 0
+    x: 25
+    fill_alpha: 7
+    y: 250
+    margin: 20
+    line_color: 000000
+    height: 50
+    fill_color: 000000
+    line_thickness: 0
+    width: 350
+
+  <%=component :legend_transition %>
+    delay: 0
+    type: dissolve
+    duration: 1
+
+  <%=component :series_color %>
+    colors: ff8800,88ff00
+    
+  <%=component :series_gap %>
+    set_gap: 20
+    bar_gap: 0

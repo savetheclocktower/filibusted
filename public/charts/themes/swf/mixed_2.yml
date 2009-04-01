@@ -1,0 +1,109 @@
+<%=chart :mixed %>
+  <%=comp :axis_category %>
+    size: 10
+    alpha: 50
+    bold: true
+    color: 000000
+    font: arial
+
+  <%=comp :axis_ticks %>
+    value_ticks: false
+    minor_color: 888888
+    minor_count: 3
+    major_thickness: 2
+    major_color: 000000
+    position: outside
+    category_ticks: true
+    minor_thickness: 1
+
+  <%=comp :axis_value %>
+    steps: 4
+    prefix: 
+    size: 10
+    alpha: 50
+    bold: true
+    separator: 
+    decimals: 0
+    color: 000000
+    font: arial
+    show_min: true
+    suffix: 
+
+  <%=comp :chart_border %>
+    top_thickness: 1
+    bottom_thickness: 2
+    left_thickness: 0
+    color: 000000
+    right_thickness: 0
+
+  <%=comp :chart_rect %>
+    x: 75
+    positive_alpha: 40
+    y: 75
+    height: 125
+    positive_color: FFFFFF
+    width: 300
+
+  <%=comp :chart_value %>
+    prefix: 
+    as_percentage: false
+    alpha: 50
+    size: 9
+    separator: 
+    decimals: 0
+    color: 000000
+    position: middle
+    suffix: 
+           
+  <%=comp :draw %>
+    components:
+    - <%=drawing :line %>
+        line_alpha: 25
+        y1: 260
+        x1: 150
+        y2: 260
+        x2: 450
+        line_color: ffff00
+        line_thickness: 54
+    
+    - <%=drawing :text %>
+        alpha: 75
+        rotation: 0
+        size: 70
+        x: 0
+        y: 0
+        bold: true
+        color: 4466ff
+        height: 298
+        h_align: right
+        font: arial
+        width: 380
+        v_align: bottom
+        text: 2005
+      
+  <%=comp :legend_label %>
+    size: 12
+    alpha: 80
+    bold: true
+    color: FFFFFF
+    font: arial
+    layout: horizontal
+
+  <%=comp :legend_rect %>
+    line_alpha: 0
+    x: 75
+    fill_alpha: 0
+    y: 50
+    margin: 5
+    line_color: 000000
+    height: 20
+    fill_color: 000000
+    line_thickness: 0
+    width: 300
+
+  <%=comp :series_color %>
+    colors: FF8844,7e6cee
+      
+  <%=comp :series_gap %>
+    set_gap: 35
+    bar_gap: 0

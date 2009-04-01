@@ -1,0 +1,153 @@
+--- 
+- voteable_id: 217
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 12
+  question_type: 
+  nays: 12
+  shorthand: S. 22
+  r_nays: 12
+  bill_title: Omnibus Public Land Management Act of 2009
+  meeting: 
+  id: 308
+  date_of_vote: 2009-01-11 19:00:00 Z
+  d_ayes: 54
+  vote_title: On the Cloture Motion (Motion to Invoke Cloture on the Motion to Proceed to S. 22 )
+  govtrack_id: s2009-1
+  d_nays: 0
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:21:26 Z
+  ayes: 66
+- voteable_id: 217
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 17
+  question_type: 
+  nays: 24
+  shorthand: S. 22
+  r_nays: 23
+  bill_title: Omnibus Public Land Management Act of 2009
+  meeting: 
+  id: 309
+  date_of_vote: 2009-01-14 15:31:00 Z
+  d_ayes: 51
+  vote_title: On the Cloture Motion (Motion to Invoke Cloture on S.22. )
+  govtrack_id: s2009-2
+  d_nays: 1
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:21:32 Z
+  ayes: 68
+- voteable_id: 218
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 17
+  question_type: 
+  nays: 23
+  shorthand: S. 181
+  r_nays: 23
+  bill_title: Lilly Ledbetter Fair Pay Act of 2009
+  meeting: 
+  id: 310
+  date_of_vote: 2009-01-15 17:58:00 Z
+  d_ayes: 54
+  vote_title: On the Cloture Motion (Motion to Invoke Cloture on the Motion to Proceed to S.181 )
+  govtrack_id: s2009-4
+  d_nays: 0
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:21:38 Z
+  ayes: 72
+- voteable_id: 219
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 3
+  question_type: 
+  nays: 36
+  shorthand: H.R. 1
+  r_nays: 36
+  bill_title: American Recovery and Reinvestment Act of 2009
+  meeting: 
+  id: 311
+  date_of_vote: 2009-02-09 22:29:00 Z
+  d_ayes: 58
+  vote_title: On the Cloture Motion (Motion to Invoke Cloture on Collins-Nelson (NE) Amdt. No. 570 to H.R. 1 )
+  govtrack_id: s2009-59
+  d_nays: 0
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:21:44 Z
+  ayes: 61
+- voteable_id: 220
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 8
+  question_type: 
+  nays: 34
+  shorthand: S. 160
+  r_nays: 32
+  bill_title: District of Columbia House Voting Rights Act of 2009
+  meeting: 
+  id: 312
+  date_of_vote: 2009-02-24 16:16:00 Z
+  d_ayes: 54
+  vote_title: On Cloture on the Motion to Proceed (Motion to Invoke Cloture on the Motion to Proceed to Consider S. 160 )
+  govtrack_id: s2009-65
+  d_nays: 2
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:21:50 Z
+  ayes: 62
+- voteable_id: 221
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 8
+  question_type: 
+  nays: 35
+  shorthand: H.R. 1105
+  r_nays: 32
+  bill_title: Omnibus Appropriations Act, 2009
+  meeting: 
+  id: 313
+  date_of_vote: 2009-03-10 22:47:00 Z
+  d_ayes: 54
+  vote_title: On the Cloture Motion (Motion to Invoke Cloture on H.R. 1105 )
+  govtrack_id: s2009-96
+  d_nays: 3
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:21:55 Z
+  ayes: 62
+- voteable_id: 222
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 16
+  question_type: 
+  nays: 21
+  shorthand: H.R. 146
+  r_nays: 21
+  bill_title: Omnibus Public Land Management Act of 2009
+  meeting: 
+  id: 314
+  date_of_vote: 2009-03-16 21:31:00 Z
+  d_ayes: 57
+  vote_title: On the Cloture Motion (Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 146 )
+  govtrack_id: s2009-99
+  d_nays: 0
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:22:04 Z
+  ayes: 73
+- voteable_id: 223
+  updated_at: 2009-03-31 12:42:16 Z
+  r_ayes: 23
+  question_type: 
+  nays: 14
+  shorthand: H.R. 1388
+  r_nays: 14
+  bill_title: Generations Invigorating Volunteerism and Education Act
+  meeting: 
+  id: 315
+  date_of_vote: 2009-03-23 21:45:00 Z
+  d_ayes: 51
+  vote_title: On Cloture on the Motion to Proceed (Motion to Invoke Cloture on the Motion to Proceed to H.R. 1388 )
+  govtrack_id: s2009-108
+  d_nays: 0
+  tweeted: false
+  meeting_id: 11
+  created_at: 2009-03-30 01:22:10 Z
+  ayes: 74

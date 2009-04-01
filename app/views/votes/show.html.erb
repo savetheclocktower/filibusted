@@ -1,0 +1,135 @@
+
+
+<div class="the-vote-wrapper">
+  
+  <div class="the-vote elastic clearfix">
+  
+    <img src="/images/stall.png" width="240" height="225" alt="Stall" class="stall" />
+
+    <div class="summary">
+    
+      <h2>
+        On <span class="date"><%= @vote.date_of_vote.to_s(:formal) %></span>, 
+        <%= @vote.nays.to_i %> Senators attempted to filibuster
+        <% if @vote.on_amendment? %>
+          an amendment to 
+        <% end %>
+        <a class="vote-link" href="<%= govtrack_url(@vote) %>"><%= @vote.shorthand %></a>
+        and
+        <% if @vote.passed? %>
+        <span class="outcome">failed</span>.
+        <% else %>
+        <span class="outcome">succeeded</span>.
+        <% end %>
+      </h2>
+
+      <h3><span class="number"><%= breakdown_of_nay_voters(@vote) %></span> 
+        <a href="<%= govtrack_vote_url(@vote) %>">tried to stall legislation</a> they didn't like.</h3>
+
+        
+    </div> <!-- .summary -->
+  
+  </div> <!-- .the-vote -->
+
+</div> <!-- .the-vote-wrapper -->
+
+  
+<div class="intro-wrapper">
+  
+  <div class="intro-to-filibuster elastic clearfix">
+
+    <div class="bill-meta">
+      <h6>Senate Roll Call #<%= @vote.roll_call %>:</h6>      
+      <p><%= @vote.vote_title.gsub(" )", ")") %>.</p>
+
+      <p class="outcome">Vote <%= @vote.passed? ? "passed" : "failed" %>, <%= @vote.ayes %>–<%= @vote.nays %>.</p>
+
+    </div> <!-- .bill-meta -->
+
+    <div class="what-does-this-mean">
+      <h3>What does this mean?</h3>
+
+      <p>It takes <strong>51</strong> votes to pass a bill in the Senate. But it takes <strong>60</strong> votes to end debate. These days it's quite common for the minority party to threaten to <em>filibuster</em> (to debate indefinitely) in order to stall legislation.</p>
+
+      <p>A <em>cloture vote</em> is the Senate's way of asking <strong>"Can we move on, please?"</strong> It needs 60 votes to pass. There are 100 senators. As a result, as few as <strong>41</strong> senators can, as a bloc, bring the U.S. Senate to a standstill.</p>
+      
+      <p><a href="#">Still confused?</a></p>
+
+    </div> <!-- .what-does-this-mean -->
+
+    <div class="why-this-bill">
+      <h3>Why this bill?</h3>
+
+      <p>Good question. <%= @vote.shorthand %> is the <strong><%= @vote.bill_title %></strong>. Read more about the bill and <strong>decide for yourself</strong> if it was worth holding up the business of the U.S. Senate.</p> 
+      
+      <ul>
+        <% if @vote.on_amendment? %>
+        <li>Amendment: <%= link_to_amendment(@vote.voteable) %></li>
+        <li>Bill: <%= link_to_voteable(@vote.voteable.bill) %></li>
+        <% else %>
+        <li><%= link_to_voteable(@vote.voteable) %></li>
+        <% end %>
+      </ul>     
+
+      <h3>Why Republicans?</h3>
+
+      <p>In the 111th Congress, Republicans tend to vote against cloture because they're in the minority. Historically, the party that is outnumbered wields the filibuster — but they've done so <strong>more and more often</strong> in recent years.</p>
+    </div> <!-- .why-this-bill -->
+
+  </div> <!-- .intro-to-filibuster -->  
+  
+</div> <!-- .intro-wrapper -->
+
+
+<div class="more-information-wrapper">
+  
+  <div class="more-information elastic clearfix">
+    
+    <div class="scoreboard clearfix">
+      
+      <div class="scoreboard-sign">
+        
+        <span class="votes">
+          <b><%= @vote.meeting.number_of_cloture_votes %></b> Votes
+        </span>
+        
+        <span class="rate">
+          <b><%= @vote.meeting.obstruction_rate %></b> Gridlocked
+        </span>
+        
+      </div> <!-- .scoreboard-sign -->
+      
+      <div class="scoreboard-description">
+        
+        <h3>Scoreboard</h3>
+
+        <p>This was the <b><%= @vote.nth %></b> cloture vote of the 111th Congress.</p>
+
+        <p>So far there have been <b><%= @vote.meeting.number_of_cloture_votes %></b> cloture votes out of <b><%= @vote.meeting.total_votes %></b> roll call votes — a percentage of <b><%= @vote.meeting.obstruction_rate %></b>.</p>
+
+        <p>The 110th Congress (2007–2008) set a crazy record: <b>112</b> cloture votes out of <b>657</b> roll call votes. That's a percentage of <b>17.0%!</b> When it comes to legislative inaction, we've got some big shoes to fill.</p>
+        
+      </div> <!-- .scoreboard-description -->      
+      
+    </div> <!-- .scoreboard -->
+  
+    <div class="section section-wide">
+    
+      <h3>Who voted against cloture?</h3>
+      <p>Is one of your senators in this list? Get in touch and ask what's up.</p>
+    
+      <p>
+        <%= render :partial => "senators", :locals => { :votes => @vote.nay_votes } %>
+      
+   <%#= @vote.nay_votes.map { |v| link_to_senator v.senator }.join(", ") %></p>
+    
+    
+    </div> <!-- .section-wide -->
+    
+  </div> <!-- .more-information -->
+
+</div> <!-- .more-information-wrapper -->
+  
+  
+
+

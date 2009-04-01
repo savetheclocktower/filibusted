@@ -1,0 +1,92 @@
+<%=chart :pie %>
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    '000000'
+        alpha:    20
+        rotation: -24
+        bold:     true
+        size:     18
+        x:        57
+        y:        162
+        width:    200
+        height:   150
+        h_align:  center
+        v_align:  middle
+        text:     my slice        
+      - <%=drawing :text %>
+        color:    ffffaa
+        alpha:    90
+        rotation: -24
+        bold:     true
+        size:     18
+        x:        55
+        y:        160
+        width:    200
+        height:   150
+        h_align:  center
+        v_align:  middle
+        text:     my slice
+        
+      - <%=drawing :text %>
+        color:    '000000'
+        alpha:    10
+        rotation: -10
+        bold:     true
+        size:     50
+        x:        3
+        y:        33
+        width:    320
+        height:   230
+        h_align:  center
+        v_align:  middle
+        text:     our pie        
+      - <%=drawing :text %>
+        color:    'eeeedd'
+        alpha:    90
+        rotation: -11
+        bold:     true
+        size:     50
+        x:        0
+        y:        30
+        width:    320
+        height:   230
+        h_align:  center
+        v_align:  middle
+        text:     our pie
+                
+  <%=component :chart_grid_h %>
+    alpha: 35
+    thickness: 2
+    type: dotted
+    color: 000000
+
+  <%=component :chart_rect %>
+    x: 50
+    positive_alpha: 0
+    y: 50
+    height: 200
+    positive_color: 000000
+    negative_color: ff0000
+    negative_alpha: 0
+    width: 300
+
+  <%=component :chart_value %>
+    alpha: 0
+
+  <%=component :legend_rect %>
+    x: -100
+    y: -100
+    margin: 10
+    height: 10
+    width: 10
+
+  <%=component :series_color %>
+    colors: 88dd11,ff8811,7744dd
+    
+  <%=component :series_explode %>
+    numbers:
+      - 20
+      - 20
+      - 10

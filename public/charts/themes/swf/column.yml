@@ -1,0 +1,110 @@
+<%=chart :column %>
+
+  <%=component :axis_value %>
+    steps: 4
+    size: 10
+    alpha: 50
+    bold: true
+    decimals: 0
+    min: -60
+    color: 000000
+    font: arial
+    show_min: true
+
+  <%=component :chart_border %>
+    top_thickness: 1
+    bottom_thickness: 2
+    left_thickness: 0
+    color: 000000
+    right_thickness: 0
+    <%=component :chart_grid_h %>
+    alpha: 20
+    thickness: 1
+    type: dashed
+    color: 000000
+
+  <%=component :chart_rect %>
+    x: 75
+    positive_alpha: 10
+    y: 50
+    height: 200
+    positive_color: 000066
+    negative_color: 000000
+    negative_alpha: 30
+    width: 300
+
+  <%=component :chart_transition %>
+    delay: .5
+    order: series
+    type: scale
+    duration: 0.5
+
+  <%=component :chart_value %>
+    prefix: 
+    as_percentage: false
+    alpha: 85
+    size: 10
+    bold: true
+    separator: 
+    decimals: 0
+    color: ffffff
+    font: arial
+    position: middle
+    suffix: 
+
+  <%=component :legend_label %>
+    size: 12
+    alpha: 90
+    bold: true
+    color: 333355
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 0
+    x: 75
+    fill_alpha: 8
+    y: 27
+    margin: 5
+    line_color: 000000
+    height: 20
+    fill_color: 000066
+    line_thickness: 0
+    width: 300
+
+  <%=component :series_color %>
+    colors: 666666,768bb3
+    
+  <%=component :series_gap %>
+    set_gap: 40
+    bar_gap: -25
+    
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        rotation: -45
+        color:    000000
+        alpha:    20
+        bold:     true
+        size:     75
+        x:        100
+        y:        200
+        width:    300
+        height:   200
+        h_align:  left
+        v_align:  top
+        text:     revenue
+        
+      - <%=drawing :text %>
+        color:    000033
+        alpha:    50
+        size:     16
+        bold:     true
+        rotation: -90
+        x:        -70
+        y:        230
+        width:    300
+        height:   200
+        h_align:  center
+        v_align:  middle
+        text:     (millions)    

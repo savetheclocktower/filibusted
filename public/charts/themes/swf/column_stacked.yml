@@ -1,0 +1,87 @@
+<%=chart :stacked_column %>
+  <%=component :axis_value %>
+    font:  arial
+    bold:  true
+    size:  10
+    color: '000000'
+    alpha: 50
+    steps: 6
+    decimals: 0
+    show_min: true
+    
+  <%=component :chart_rect %>
+    x: 125
+    positive_alpha: 75
+    y: 65
+    height: 200
+    positive_color: ffffff
+    negative_color: 000000
+    negative_alpha: 15
+    width: 250
+
+  <%=component :chart_transition %>
+    delay: 0
+    order: series
+    type: drop
+    duration: 2
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        transition: slide_up
+        delay:      1
+        duration:   0.5
+        rotation: -90
+        color:    000033
+        alpha:    15
+        bold:     true
+        size:     64
+        x:        0
+        y:        295
+        width:    300
+        height:   50
+        h_align:  right
+        v_align:  middle
+        text:     GROWTH
+        
+      - <%=drawing :text %>
+        color:    ffffff
+        alpha:    50
+        size:     25
+        bold:     true
+        rotation: -90
+        x:        30
+        y:        300
+        width:    300
+        height:   50
+        h_align:  right
+        v_align:  middle
+        text:     report
+
+  <%=component :legend_label %>
+    size: 13
+    alpha: 90
+    bold: true
+    color: 444466
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 0
+    x: 125
+    fill_alpha: 35
+    y: 10
+    margin: 5
+    line_color: 000000
+    height: 10
+    fill_color: ffffff
+    line_thickness: 0
+    width: 250
+
+  <%=component :legend_transition %>
+    delay: 0
+    type: slide_left
+    duration: 1
+    
+  <%=component :series_color %>
+    colors: 4e627c,844648,c89341

@@ -1,0 +1,73 @@
+
+<h1>Meetings of Congress</h1>
+
+
+<div class="data-table">
+  <table>
+    <thead>
+      <tr>
+        <th class="columns-2">Meeting of Congress</th>
+        <th>Years</th>
+        <th class="number">Cloture Votes</th>
+        <th class="number">Total Votes</th>
+        <th class="number">Obstruction Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @meetings.each do |meeting| %>
+      <tr>
+        <% if meeting.votes.size > 0 %>
+        <td><%= link_to "#{meeting.nth} Congress", { :action => :show,
+           :params => { :id => meeting.ordinal } } %></td>
+        <% else %>
+        <td><%= meeting.nth %> Congress</td>
+        <% end %>
+        <td><%= meeting.years %></td>
+        <td class="number"><%= meeting.number_of_cloture_votes %></td>
+        <td class="number"><%= meeting.total_votes %></td>
+        <td class="number">
+          <%= meeting.obstruction_rate %>
+
+        </td>
+      </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div> <!-- .data-table -->
+
+
+<div class="data clearfix">
+  <div class="about-data">
+    <p>Over the last two decades, cloture votes have steadily increased.</p>
+  </div> <!-- .about-data -->
+
+  <div id="meetings_chart">
+    <%= ziya_chart '/meetings/load_chart', :size => "480x125" -%>  
+  </div> <!-- #meetings_chart -->
+  
+</div> <!-- .data -->
+
+
+<style type="text/css" media="screen">
+  .data {
+    width: 720px;
+    height: 125px;
+    background-color: #000;
+  }
+  
+  .about-data p {
+    width: 220px;
+    padding: 0 10px;
+    margin: 45px 0 0;
+    float: left;
+    font-size: 13px;
+  }
+
+  #meetings_chart {
+    width: 480px;
+    float: left;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+</style>
+
+

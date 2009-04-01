@@ -1,0 +1,119 @@
+<div class="sky hall-of-blame">
+  
+  <div class="elastic clearfix">
+    
+    <div class="about-hall-of-blame">
+      <h2>Hall of Blame</h2>
+
+      <p>These distinguished senators have so far managed to vote against <u>every cloture motion</u> in the 111th Congress. They are <u>sworn enemies</u> of the majority's agenda and they don't care who knows it.</p>
+    </div> <!-- .about-hall-of-blame -->
+
+    <% @hall_of_blame.each do |senator| %>
+      <%= render :partial => 'trading_card', :locals => { :senator => senator } %>
+    <% end %>
+    
+  </div> <!-- .elastic.clearfix -->
+  
+</div> <!-- .hall-of-blame clearfix -->
+
+<div class="paper">
+
+  <div class="two-columns elastic clearfix">
+
+    <div class="column column-4">
+
+      <h3>The Whole List</h3>
+      <div class="data-table">
+        <table>
+          <thead>
+            <tr>
+              <th class="columns-2-first columns-2">
+                <span>Name</span>
+              </th>
+              <th class="number">
+                <span>Obstruction Rate</span>
+              </th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <%= render :partial => "row", :collection => @senators, :as => :senator %>
+          </tbody>
+        </table>
+
+      </div> <!-- .data-table -->
+
+    </div> <!-- .left-column -->
+
+
+    <div class="column column-4 column-last">
+
+      <div class="breakout">
+        <h3>Least Obstructionist Republicans</h3>
+        <p>Members of the minority party that have voted <span class="green">for cloture</span> most often.</p>
+
+        <div class="data-table">
+          <table>
+            <tbody>
+              <%= render :partial => "row", :collection => @best_in_minority, :as => :senator %>
+            </tbody>
+          </table>
+
+        </div> <!-- .data-table -->
+
+      </div> <!-- .breakout -->
+
+
+      <div class="breakout">
+
+        <h3>Most Obstructionist Democrats</h3>
+        <p>Members of the majority party that have voted <span class="red">against cloture</span> most often.</p>
+
+        <div class="data-table">
+          <table>
+            <tbody>
+              <%= render :partial => "row", :collection => @worst_in_majority, :as => :senator %>              
+            </tbody>
+          </table>
+
+        </div> <!-- .data-table -->
+
+
+      </div> <!-- .breakout -->
+
+
+      <div class="breakout">
+
+        <h3>Most Vulnerable in 2010</h3>
+
+        <p>Incumbents that face difficult re-election campaigns, based on <a href="http://www.fivethirtyeight.com/search/label/senate%20rankings" title="FiveThirtyEight: Politics Done Right: senate rankings">FiveThirtyEight's rankings</a>.</p>
+        
+        <h4>Republicans</h4>
+
+        <div class="data-table">
+          <table>
+            <tbody>
+              <%= render :partial => "row", :collection => @vulnerable[:r], :as => :senator %>
+            </tbody>
+          </table>
+        </div> <!-- .data-table -->
+        
+        <h4>Democrats</h4>
+
+        <div class="data-table">
+          <table>
+            <tbody>
+              <%= render :partial => "row", :collection => @vulnerable[:d], :as => :senator %>
+            </tbody>
+          </table>
+        </div> <!-- .data-table -->
+        
+
+      </div> <!-- .breakout -->
+
+    </div> <!-- .right-column -->
+
+  </div> <!-- .two-columns -->
+  
+</div> <!-- .paper -->
+

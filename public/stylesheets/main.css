@@ -1,0 +1,880 @@
+.clearfix:after {
+  clear: both;
+  content: " ";
+  display: block;
+  height: 0;
+  line-height: 0;
+  font-size: 0;
+  visibility: hidden;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+html[xmlns] .clearfix {
+  display: block;
+}
+
+* html .clearfix {
+  height: 1%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Palatino, 'Times New Roman', serif;
+}
+
+.replaced { visibility: hidden; }
+
+/* MAIN STYLES */
+
+body {
+  background: #e2edff;
+  color: #eee;
+  font-family: 'Lucida Grande', 'Verdana', sans-serif;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+}
+
+  body * {
+    margin: 0;
+    padding: 0;
+  }
+  
+a { color: #027; }
+
+  a:visited { color: #368;}
+  
+p, li {
+  line-height: 150%;  
+}
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  color: #000;
+}
+
+.header {
+  padding-top: 1px;
+  height: 74px;
+  background: url(../images/header-background.png) no-repeat center center;
+  border-bottom: 4px solid #666;
+}
+
+  body.vote .header {
+    background: #0a0a0a;
+    border-top: 4px solid #666;
+    border-bottom: 0;
+  }
+
+  .header h1 {
+    width: 159px;
+    height: 36px;
+    margin-top: 20px;
+    background: url(../images/logo.png) no-repeat 0 0;
+  }
+  
+  .header .logo-container {
+    width: 230px;
+    margin-right: 10px;
+    float: left;
+  }
+  
+    .header .logo-container a {
+      display: block;
+      text-decoration: none;
+    }
+  
+  .header .navigation {
+    width: 480px;
+    float: left;
+    margin-left: 240px;
+  }
+  
+    .header .navigation ul {
+      list-style-type: none;
+    }
+    
+      .header .navigation li {
+        width: 110px;
+        height: 74px;
+        line-height: 74px;
+        margin-right: 10px;
+        float: left;
+        text-align: center;
+        font-size: 14px;
+      }
+      
+        .header .navigation li a {
+          display: block;
+          color: #fff;
+        }
+        
+          .header .navigation li a:hover {
+            background-color: #222;
+          }
+    
+    
+  
+.content {
+}
+
+
+.the-vote-wrapper {
+  background: #e2edff;
+}
+
+.elastic {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.sky {
+  background-color: #e2edff;
+  padding: 25px 0;
+  color: #000;
+  border-bottom: 4px solid #8fa2c1;
+}
+
+.paper {
+  background-color: #fff;
+  color: #000;
+  padding: 25px 0 50px;
+}
+
+  .paper h2 {
+    margin: 1.2em 0 0.3em;
+  }
+  
+  .paper p {
+    margin: 0 0 0.8em;
+  }
+
+  .paper ul {
+    margin: 1.0em 0 1.0em 25px;
+  }
+  
+  .paper em,
+  .paper i,
+  .paper cite {
+    font-family: "Trebuchet MS", sans-serif;
+  }
+
+
+.the-vote .summary {
+  width: 640px;
+  height: 165px;
+  padding: 75px 40px 10px 40px;
+  color: #000;
+  font-family: Palatino, 'Times New Roman', serif;
+  float: left;
+}
+
+  .the-vote .summary h2 {
+    font-size: 31px;
+    margin: 0 0 12px;
+  }
+  
+  .the-vote .summary h3 {
+    font-size: 20px;
+  }
+  
+  .the-vote .outcome {
+    text-decoration: underline;
+  }
+  
+  .the-vote .stall {
+    margin-top: 25px;
+    width: 240px;
+    height: 225px;
+    float: left;
+  }
+  
+  
+.intro-wrapper {
+  background-color: #301500;
+  border-top: 4px solid #630;
+  border-bottom: 4px solid #630;
+}
+  
+.intro-to-filibuster {
+  clear: left;
+  margin-top: 1px;
+  padding: 10px 0;
+  color: #fff;
+}
+
+  .intro-to-filibuster a {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .intro-to-filibuster strong {
+    background-color: #630;
+    padding: 0 3px;
+  }
+
+  .intro-to-filibuster .bill-meta {
+    width: 170px;
+    padding: 40px 40px 15px 20px;
+    margin-right: 10px;
+    float: left;
+    background: url(../images/bill-paper.png) no-repeat 0 0;
+    color: #000;
+    font-family: "Courier New", Courier, monospace;
+    height: 200px;
+    font-size: 12px;
+  }
+  
+    .bill-meta u {
+      font-weight: bold;
+      
+    }
+    
+    .bill-meta h6 {
+      font-family: "Courier New", Courier, monospace;
+      text-decoration: underline;
+      font-size: 12px;
+      margin-bottom: 5px;
+    }
+    
+    .bill-meta .outcome {
+      text-decoration: underline;
+    }
+
+  .intro-to-filibuster .what-does-this-mean {
+    width: 330px;
+    margin-right: 10px;
+    padding: 0 10px;
+    float: left;
+  }
+  
+  .intro-to-filibuster .why-this-bill {
+    width: 350px;
+    float: left;
+  }
+  
+    .why-this-bill ul {
+      margin-left: 20px;
+      margin-bottom: 1.2em;
+    }
+    
+      .why-this-bill li {
+        
+      }
+
+  .intro-to-filibuster h3 {
+    font-size: 17px;
+    margin-top: 0.4em;
+    margin-bottom: 0.3em;
+  }
+  
+  .intro-to-filibuster p {
+    margin-bottom: 0.8em;
+  }
+  
+  
+.section {
+  width: 210px;
+  margin-right: 10px;
+  padding: 0 10px;
+  float: left;
+  font-size: 13px;
+}
+
+  .section p {
+    margin: 0.5em 0 0.8em;
+  }
+    
+  .section ul,
+  .section ol {
+    margin: 0.5em 0 1.0em 13px;
+  }
+  
+  .section h3 {
+    /*margin: 1.0em 0 0.5em;*/
+  }
+  
+.section.last {
+  margin-right: 0;
+}
+
+.section-wide {
+  width: 430px;
+}
+
+.column {
+  margin-right: 10px;
+  float: left;
+}
+  
+  .column h3 {
+    margin: 1.0em 0 0.5em;
+    font-size: 19px;
+    padding-left: 9px;
+  }
+  
+  .column h4 {
+    margin: 1.0em 0 0.5em;
+    padding-left: 9px;
+    font-size: 17px;
+  }
+  
+  .column p {
+    padding-left: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .column .breakout {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+    .column .breakout p {
+      margin: 0 0 10px;
+    }
+    
+    
+/*
+ *  COLUMNS OF VARIOUS WIDTHS
+ */
+ 
+ .column-1 {
+   width: 110px;
+ }
+
+ .column-2 {
+   width: 230px;
+ }
+
+ .column-3 {
+   width: 350px;
+ }
+
+ .column-4 {
+   width: 470px;
+ }
+
+ .column-5 {
+   width: 590px;
+ }
+
+ .column-6 {
+   width: 710px;
+ }
+
+ .column-7 {
+   width: 830px;
+ }
+
+ .column-8 {
+   width: 950px;
+ }
+    
+
+.more-information-wrapper {
+  padding: 30px 0;
+  background-color: #fff;
+  color: #000;
+}
+
+
+  .more-information a {
+    /*color: #22e;*/
+  }
+  
+  .more-information h3 {
+    font-size: 17px;
+    margin-top: 0.4em;
+    margin-bottom: 0.3em;
+  }
+  
+  .more-information p {
+    margin-bottom: 0.8em;
+  }
+  
+  
+  .more-information .scoreboard {
+    width: 470px;
+    margin-right: 10px;
+    float: left;
+  }
+  
+    .scoreboard-sign {
+      width: 110px;
+      margin-right: 10px;
+      float: left;
+    }
+    
+      .scoreboard-sign .votes,
+      .scoreboard-sign .rate {
+        display: block;
+        background-color: #037;
+        color: #fff;
+        padding: 5px 5px 10px;
+        margin: 0 0 15px;
+        text-align: center;
+        border: 2px solid #024;
+      }
+      
+        .scoreboard-sign .votes b,
+        .scoreboard-sign .rate b {
+          display: block;
+          font-size: 56px;
+          line-height: 56px;
+          font-family: Palatino, 'Times New Roman', serif;
+        }
+        
+        .scoreboard-sign .rate b {
+          font-size: 28px;
+          line-height: 44px;
+        }
+    
+    .scoreboard-description {
+      width: 330px;
+      padding: 0 10px;
+      float: left;
+    }
+  
+
+.data-table table {
+  border-collapse: collapse;
+}
+
+  .data-table table th {
+    font-size: 12px;
+    text-align: left;
+  }
+  
+    .data-table table th span {
+      border-bottom: 2px solid #aaa;
+    }
+  
+  .data-table th,
+  .data-table td {
+    padding: 5px 6px;
+    width: 108px;
+  }
+  
+  .data-table th.number,
+  .data-table td.number {
+    text-align: right;
+    width: 108px;
+  }
+  
+  .data-table th.centered,
+  .data-table td.centered {
+    text-align: center;
+  }
+  
+  .data-table th.columns-2,
+  .data-table td.columns-2 {
+    width: 228px;
+  }
+  
+  .data-table tr.odd {
+    background-color: #eee;
+  }
+  
+  .data-table thead th {
+    text-align: left;
+  }
+  
+  .data-table th.first,
+  .data-table td.first {
+    padding-left: 12px;
+    width: 102px;
+  }
+  
+  .data-table th.columns-2-first,
+  .data-table td.columns-2-first {
+    padding-left: 12px;
+    width: 222px;
+  }
+  
+
+.small-table {
+  margin: 0 0 1.0em;
+}
+
+  .small-table th {
+    width: 110px;
+    padding: 3px 0 3px 10px;
+    text-align: left;
+  }
+  
+  .small-table td {
+    width: 230px;
+    padding: 3px 5px;
+  }
+  
+  
+/* FOOTER */
+
+.footer {
+  color: #fff;
+  background-color: #0a0a0a;
+  border-top: 4px solid #666;
+}
+
+  body.vote .footer {
+    border-top: 0;
+  }
+
+
+  .footer-left,
+  .footer-right {
+    float: left;
+    width: 470px;
+    margin-right: 10px;
+  }
+  
+  .footer-right { margin-right: 0; }
+
+
+  .footer a,
+  .footer a:visited {
+    color: #96cff3;
+  }
+
+  .footer h3 {
+    font-size: 17px;
+    margin-bottom: 4px;
+  }
+
+  .footer-content {
+    width: 960px;
+    margin: 0 auto;
+    padding: 30px 0;
+  }
+  
+  .footer .about, 
+  .footer .twitter {
+    background: transparent no-repeat 20px center;
+    width: 330px;
+    line-height: 150%;
+    padding: 10px 0 10px 120px;
+    margin: 0 0 20px;
+  }
+  
+  .footer .how-it-works,
+  .footer .open-government {
+    padding: 10px 0;    
+  }
+  
+  .footer .about {
+    background-image: url(../images/icon-piracy.png);
+  }  
+
+  .footer .twitter {
+    background-image: url(../images/icon-twitter.png);
+  }
+
+
+/* Party identification */
+  
+.senator-d, a.senator-d:visited { color: #009; }
+.senator-r, a.senator-r:visited { color: #900; }
+.senator-i, a.senator-i:visited { color: #333; }
+
+
+.epithet {
+  color: #555;
+  font-size: 11px;
+}
+
+
+/* Red-light, Green-light */
+
+span.green { font-weight: bold; color: #090; }
+span.red   { font-weight: bold; color: #b00; }
+
+
+.no-display { display: none; }
+
+
+.hall-of-blame {
+}
+
+  .about-hall-of-blame {
+    float: left;
+    width: 330px;
+    height: 140px;
+    margin-right: 10px;
+    padding: 25px 10px 5px;
+    color: #000;
+    line-height: 150%;
+  }
+  
+    .about-hall-of-blame h2 {
+      font-size: 24px;
+      margin: 0 0 0.5em;
+    }
+  
+    .about-hall-of-blame p {
+      font-family: Palatino, 'Times New Roman', serif;
+      font-size: 18px;
+    }
+
+
+/* Trading card */
+
+.trading-card {
+  background-color: #333;
+  color: #eee;
+  float: left;
+  width: 108px;
+  height: 200px;
+  margin-right: 10px;
+  border: 1px solid #444;
+}
+
+  .trading-card a {
+    display: block;
+    color: #eee;
+    text-decoration: none;
+  }
+
+
+  .trading-card .top {
+    text-align: center;
+    padding: 5px 0;
+  }
+  
+  .trading-card .top img {
+    border: 1px solid #999;
+    border-bottom: 0;
+  }
+  
+  .trading-card .bottom {
+    font-family: Palatino, 'Times New Roman', serif;
+    padding: 5px 5px 0;
+  }
+  
+    .trading-card .bottom b {
+      display: block;
+      text-transform: uppercase;
+      font-size: 15px;
+      letter-spacing: -1px;
+    }
+    
+  .trading-card .meta {
+    margin: 0 3px;
+    border: 1px solid #999;
+    border-top: 0;
+  }
+  
+    .trading-card .party,
+    .trading-card .obstruction-percentage {
+      width: 50px;
+      float: left;
+      display: block;
+      text-align: center;
+      padding: 3px 0;
+    }
+    
+    .trading-card .party {
+      background-color: #555;
+      color: #fff;
+      line-height: 20px;
+      height: 22px;
+      font-size: 11px;
+    }
+  
+  .trading-card .obstruction-percentage {
+    line-height: 22px;
+    font-size: 13px;
+    color: #fff;
+    background-color: #900;
+    font-family: Palatino, 'Times New Roman', serif;
+  }
+  
+
+
+td.obstruction-rate {
+  font-weight: bold;
+}
+
+td.red {
+  color: #900;
+}
+
+td.yellow {
+  color: #c50;
+}
+
+td.green {
+  color: #080;
+}
+
+
+
+
+
+
+
+
+ 
+/* Senator page */
+  
+.senator-banner {
+  background: #e2edff;
+  color: #000;
+  padding: 10px 0;
+}
+
+  .senator-banner .left,
+  .senator-banner .right {
+    width: 480px;
+    float: left;
+  }
+
+  .senator-photo {
+    width: 110px;
+    margin-right: 10px;
+    text-align: center;
+    float: left;
+  }
+  
+    .senator-photo img {
+      border: 2px solid #444;
+    }
+    
+  .senator-name {
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 30px;
+  }
+  
+.obstruction-box {
+  margin-top: 10px;
+  width: 476px;
+  float: left;
+  border: 2px solid #222;
+}
+
+  .senator-obstruction-rate {
+    color: #eee;
+    text-align: center;
+    float: left;
+    width: 110px;
+    height: 50px;
+    padding: 15px 0;
+  }
+
+    .rate-green {
+      background-color: #090;
+    }
+  
+    .rate-yellow {
+      background-color: #c50;
+    }
+  
+    .rate-red {
+      background-color: #900;
+    }
+
+    .senator-obstruction-rate span {
+      display: block;
+      font-size: 11px;
+      margin-bottom: 5px;
+    }
+  
+    .senator-obstruction-rate b {
+      font-family: Palatino, 'Times New Roman', serif;
+      display: block;
+      font-size: 32px;
+    }
+  
+.about-obstruction-rate {
+  background-color: #333;
+  color: #eee;
+  width: 356px;
+  height: 50px;
+  padding: 12px 0 18px 10px;
+  float: left;
+}
+
+  .about-obstruction-rate p {
+    margin-top: 3px;
+  }
+
+
+.state-senators-group {
+  white-space: nowrap;
+}
+
+.state-name {
+  font-weight: bold;
+  color: #555;
+  white-space: nowrap;
+}
+
+.senators-for-state {
+  padding-right: 10px;
+  white-space: nowrap;
+}
+
+.about-this-senator {
+  background-color: #fff;
+  border-top: 4px solid #8fa2c1;
+}
+
+/* FAQ */
+
+.questions {
+  margin: 1.0em 0 1.5em;
+}  
+
+/* Congress page */
+
+.congress-sky {
+  margin: -25px auto;
+  padding: 25px 0 25px;
+  background: url(../images/capitol.png) no-repeat 0 100%;
+  height: 154px;
+}
+ 
+  .congress-summary {
+    margin-left: 240px;
+    margin-top: 25px;
+    font-size: 31px;
+  }
+  
+  .congress-summary-extra {
+    margin-left: 240px;
+    margin-top: 10px;
+    font-size: 23px;
+  }
+  
+/* Index */
+
+.index-sky {
+  margin: -25px auto;
+  padding: 25px 0 25px;
+  height: 250px;
+  background: url(../images/button-block.png) no-repeat 0 50%;
+}
+
+  .index-sky h2 {
+    margin-top: 35px;
+    font-size: 31px;
+    margin-left: 240px;
+    width: 640px;
+  }
+  
+  .index-sky p {
+    margin-top: 10px;
+    font-family: Palatino, "Times New Roman", serif;
+    font-size: 22px;
+    margin-left: 240px;
+    line-height: 27px;
+    width: 640px;
+  }
+
+.index-trading-cards {
+  padding: 0 10px;
+}

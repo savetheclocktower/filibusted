@@ -1,0 +1,32 @@
+<%= chart :column %>
+  <%= component :chart_value %>
+    position: top
+    
+  <%= component :chart_border %>
+    left_thickness:   0
+    bottom_thickness: 0
+    
+  <%= component :chart_rect %>
+    positive_color: 000000
+    negative_color: 000000
+    
+  <%= component :chart_grid_h %>
+    thickness: 0
+  
+  <%= component :chart_grid_v %>
+    thickness: 0
+    
+  <%= component :chart_label %>
+    position: outside
+    color: ffffff
+    
+  <%= component :legend %>
+    layout: hide
+
+  <%= component :axis_ticks %>
+    value_ticks: false
+    category_ticks: false
+    
+  <%= component :axis_category %>
+    color: ffffff
+  

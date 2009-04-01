@@ -1,0 +1,42 @@
+<%=chart :stacked_bar%>
+  # Update every 1/2 sec
+  <%=component :live_update%>
+     url:   "tutor/refresh_stacked_bar"
+     delay: 2
+  # Use user_data to change color   
+  <%=component :series_color%>
+    <%if @options[:reached_goal]==0%>
+      colors: 5D7A55,55677A
+    <%else%>
+      colors: BB8084,55677A
+    <%end%>
+  # Change legend rectangle
+  <%=component :legend_rect%>
+    x:              35
+    width:          360
+  # Change chart rectangle
+  <%=component :chart_rect%>
+    negative_color: c0b15c
+    positive_color: f0811c
+    negative_alpha: 30
+    x:              35
+    y:              35
+    height:         225
+    width:          360        
+  # Draws some text  
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text%>
+        transition: none
+        delay:      0
+        duration:   0.5
+        bold:       true
+        rotation:   90
+        color:      657F5C
+        alpha:      30
+        size:       25
+        x:          390
+        y:          45
+        text:       Dynamic styles
+
+        

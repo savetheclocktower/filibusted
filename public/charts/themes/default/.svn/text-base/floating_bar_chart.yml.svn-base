@@ -1,0 +1,3 @@
+<%= chart :floating_bar_chart %>   
+  <%= pref :chart_value %>
+    position: inside

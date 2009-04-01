@@ -1,0 +1,119 @@
+<%=chart :stacked_bar %>
+  <%=component :axis_category %>
+    size:        13
+    color:       000022
+    alpha:       50
+    skip:        0
+    bold:        true
+    orientation: diagonal_up
+  
+  <%=component :axis_ticks %>
+    value_ticks:     false
+    category_ticks:  true
+    major_thickness: 0
+    minor_thickness: 0
+    minor_count:     3
+    major_color:     000000
+    minor_color:     888888
+    position:        outside
+  
+  <%=component :axis_value %>
+    bold:        true
+    size:        10
+    color:       000002
+    alpha:       50
+    steps:       4
+    show_min:    true
+    orientation: horizontal
+  
+  <%=component :chart_border %>
+    color:            000000
+    top_thickness:    0
+    bottom_thickness: 0
+    left_thickness:   3
+    right_thickness:  0 
+    
+  <%=component :chart_grid_h %>
+    thickness: 5
+    color:     000000
+    alpha:     10
+  
+  <%=component :chart_grid_v %>
+    thickness: 1
+    color:     000000
+    alpha:     10
+            
+  <%=component :chart_rect %>
+    positive_color: 00ff00      
+    positive_alpha: 20
+    negative_color: ff0000
+    negative_alpha: 20
+    x:              50
+    y:              50 
+    height:         200
+  
+  <%=component :chart_transition %>
+    type:     slide_right
+    order:    series
+    duration: 0.75
+    delay:    0
+     
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        transiton: dissolve
+        delay:     1.5
+        duration:  0.5
+        color:    000033
+        alpha:    15
+        bold:     true
+        size:     30
+        x:        0
+        y:        5
+        width:    372
+        height:   40
+        h_align:  right
+        v_align:  bottom
+        text:     regional report
+        
+      - <%=drawing :text %>
+        transiton: dissolve
+        delay:     1.5
+        duration:  0.5      
+        color:    ffffff
+        alpha:    15
+        size:     150
+        rotation: -5
+        x:        110
+        y:        290
+        width:    400
+        height:   50
+        h_align:  left
+        v_align:  bottom
+        text:     2005
+    
+  <%=component :legend_label %>
+    layout: horizontal
+    bold:   true
+    size:   13
+    color:  000022
+    alpha:  50
+    
+  <%=component :legend_rect %>
+    x:              50
+    y:              15
+    width:          10
+    height:         30
+    fill_color:     000066
+    fill_alpha:     0
+    line_color:     000000
+    line_alpha:     0
+    line_thickness: 0
+        
+  <%=component :legend_transition %>        
+    type: dissolve
+    delay: 1.5
+    duration: 0.5
+    
+  <%=component :series_color %>
+    colors: 5a4b6e,4c6b41  

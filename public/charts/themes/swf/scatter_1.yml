@@ -1,0 +1,199 @@
+<%=chart :scatter%>
+
+  <%=component :axis_category %>
+    size: 13
+    alpha: 75
+    bold: true
+    orientation: horizontal
+    color: 000000
+    font: arial
+
+  <%=component :axis_ticks %>
+    value_ticks: true
+    minor_color: 222222
+    minor_count: 1
+    major_thickness: 2
+    major_color: 000000
+    position: outside
+    category_ticks: true
+    minor_thickness: 1
+
+  <%=component :axis_value %>
+    steps: 4
+    prefix: 
+    size: 10
+    alpha: 80
+    max: 700
+    bold: true
+    separator: 
+    decimals: 0
+    min: 300
+    color: ff4444
+    font: arial
+    show_min: true
+    suffix: 
+
+  <%=component :chart_border %>
+    top_thickness: 0
+    bottom_thickness: 2
+    left_thickness: 2
+    color: 000000
+    right_thickness: 0
+
+  <%=component :chart_grid_h %>
+    alpha: 10
+    thickness: 1
+    type: dashed
+    color: 000000
+
+  <%=component :chart_grid_v %>
+    alpha: 10
+    thickness: 1
+    type: dashed
+    color: 000000
+
+  <%=component :chart_pref %>
+    point_size: 10
+    point_shape: x
+
+  <%=component :chart_rect %>
+    x: 75
+    positive_alpha: 50
+    y: 100
+    height: 125
+    positive_color: ffffee
+    negative_color: ff0000
+    negative_alpha: 10
+    width: 300
+
+  <%=component :chart_value %>
+    prefix: 
+    as_percentage: false
+    size: 10
+    alpha: 65
+    separator: 
+    bold: true
+    decimals: 0
+    color: 000000
+    font: arial
+    position: below
+    hide_zero: true
+    suffix: 
+
+  <%=component :legend_label %>
+    size: 12
+    alpha: 50
+    bullet: circle
+    bold: true
+    color: ffffff
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 0
+    x: 75
+    fill_alpha: 5
+    y: 82
+    margin: 3
+    line_color: 000000
+    height: 10
+    fill_color: 000000
+    line_thickness: 0
+    width: 300
+
+  <%=component :series_color %>
+     colors: 88ff00,ff8800,ffff00,ffffff
+     
+  <%=component :series_explode %>
+     numbers:
+       - 100
+       - 100
+       - 200
+       
+  <%=component :draw %>
+    components:
+      - <%=drawing :text %>
+        alpha: 10
+        size: 50
+        x: 100
+        y: 33
+        bold: true
+        color: ffffff
+        height: 100
+        h_align: left
+        width: 400
+        v_align: top
+        text: performance
+      - <%=drawing :text %>
+        alpha: 20
+        size: 50
+        x: 60
+        y: 33
+        bold: true
+        color: ffffff
+        height: 100
+        h_align: left
+        width: 400
+        v_align: top
+        text: performance
+      - <%=drawing :text %>
+        alpha: 75
+        size: 50
+        x: 5
+        y: 33
+        bold: true
+        color: ffffff
+        height: 100
+        h_align: left
+        width: 400
+        v_align: top
+        text: performance
+      - <%=drawing :text %>
+        alpha: 50
+        size: 50
+        x: 0
+        y: 0
+        bold: true
+        color: 44ff44
+        height: 287
+        h_align: right
+        width: 380
+        v_align: bottom
+        text: speed
+      - <%=drawing :text %>
+        alpha: 50
+        size: 14
+        x: 0
+        y: 0
+        bold: true
+        color: ffffff
+        height: 291
+        h_align: right
+        width: 380
+        v_align: bottom
+        text: miles/hour
+      - <%=drawing :text %>
+        alpha: 50
+        rotation: -90
+        size: 50
+        x: 0
+        y: 250
+        bold: true
+        color: 44ff44
+        height: 42
+        h_align: right
+        width: 150
+        v_align: bottom
+        text: range
+      - <%=drawing :text %>
+        alpha: 50
+        rotation: -90
+        size: 14
+        x: 0
+        y: 250
+        bold: true
+        color: ffffff
+        height: 47
+        h_align: right
+        width: 155
+        v_align: bottom       
+        text: miles

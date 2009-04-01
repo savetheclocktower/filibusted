@@ -1,0 +1,114 @@
+<%=chart :line %>
+  <%=component :axis_category %>
+    size: 14
+    alpha: 0
+    bold: true
+    orientation: horizontal
+    color: 000000
+    font: arial
+    skip: 0
+
+  <%=component :axis_ticks %>
+    value_ticks: true
+    minor_color: 222222
+    minor_count: 1
+    major_thickness: 2
+    major_color: 000000
+    position: outside
+    category_ticks: true
+    minor_thickness: 1
+
+  <%=component :axis_value %>
+    steps: 6
+    prefix: 
+    size: 10
+    alpha: 50
+    max: 120
+    bold: true
+    separator: 
+    decimals: 0
+    min: 0
+    color: ffffff
+    font: arial
+    show_min: true
+    suffix: 
+
+  <%=component :chart_border %>
+    top_thickness: 2
+    bottom_thickness: 2
+    left_thickness: 2
+    color: 000000
+    right_thickness: 2
+
+  <%=component :chart_grid_h %>
+    alpha: 10
+    thickness: 1
+    type: solid
+    color: 000000
+
+  <%=component :chart_grid_v %>
+    alpha: 10
+    thickness: 1
+    type: solid
+    color: 000000
+
+  <%=component :chart_pref %>
+    fill_shape: false
+    point_shape: none
+    line_thickness: 2
+
+  <%=component :chart_rect %>
+    x: 40
+    positive_alpha: 30
+    y: 25
+    height: 200
+    positive_color: 000000
+    negative_color: ff0000
+    negative_alpha: 10
+    width: 335
+
+  <%=component :chart_value %>
+    size: 12
+    alpha: 75
+    color: ffffff
+    position: cursor
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    ffffff
+        alpha:    15
+        bold:     true
+        rotation: -90
+        size:     50
+        x:        -10
+        y:        348
+        width:    300
+        height:   150
+        h_align:  center
+        v_align:  top
+        text:     hertz
+        
+      - <%=drawing :text %>
+        color:    000000
+        alpha:    15
+        bold:     true
+        size:     60
+        rotation: 0
+        x:        0
+        y:        0
+        width:    320
+        height:   300
+        h_align:  left
+        v_align:  bottom
+        text:     output
+        
+  <%=component :legend_rect %>
+    x: -100
+    y: -100
+    margin: 10
+    height: 10
+    width: 10
+
+  <%=component :series_color %>
+    colors: 77bb11,cc5511

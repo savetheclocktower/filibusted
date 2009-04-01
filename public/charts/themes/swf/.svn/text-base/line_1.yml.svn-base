@@ -1,0 +1,110 @@
+<%=chart :line %>
+  <%=component :axis_category %>
+    size: 16
+    alpha: 75
+    orientation: horizontal
+    color: 000000
+    skip: 0
+
+  <%=component :axis_ticks %>
+    value_ticks: false
+    minor_color: 222222
+    minor_count: 1
+    major_thickness: 2
+    major_color: 000000
+    position: inside
+    category_ticks: true
+    minor_thickness: 1
+
+  <%=component :axis_value %>
+    steps: 6
+    prefix: 
+    size: 10
+    alpha: 50
+    separator: 
+    decimals: 0
+    min: -40
+    color: ffffff
+    show_min: false
+    suffix: 
+
+  <%=component :chart_grid_h %>
+    alpha: 10
+    thickness: 1
+    color: 000000
+
+  <%=component :chart_pref %>
+    fill_shape: false
+    point_shape: circle
+    line_thickness: 2
+
+  <%=component :chart_rect %>
+    x: 50
+    positive_alpha: 50
+    y: 100
+    height: 150
+    positive_color: ffffff
+    negative_color: 000000
+    negative_alpha: 10
+    width: 320
+
+  <%=component :chart_transition %>
+    delay: .5
+    order: series
+    type: slide_left
+    duration: 0.5
+
+  <%=component :chart_value %>
+    background_color: aaff00
+    size: 12
+    alpha: 80
+    color: 000000
+    position: cursor
+
+  <%=component :legend_label %>
+    size: 13
+    alpha: 65
+    bullet: line
+    bold: true
+    color: ffffff
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 0
+    x: 50
+    fill_alpha: 7
+    y: 75
+    margin: 5
+    line_color: 000000
+    height: 5
+    fill_color: 000000
+    line_thickness: 0
+    width: 320
+
+  <%=component :legend_transition %>
+    delay: 0
+    type: dissolve
+    duration: 0.5
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    000000
+        alpha:    8
+        rotation: 0
+        bold:     true
+        size:     48
+        x:        8
+        y:        7
+        width:    400
+        height:   75
+        h_align:  center
+        v_align:  bottom
+        text:     annual report
+                
+  <%=component :series_color %>
+    colors: ff4444,ffff00,8844ff
+  
+  <%=component :series_explode %>
+    numbers: 300

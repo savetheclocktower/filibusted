@@ -1,0 +1,100 @@
+--- 
+- updated_at: 2009-02-16 06:31:54 Z
+  total_votes: 
+  years: 1989-1991
+  id: 1
+  party_of_president: R
+  total_cloture_votes: 24
+  ordinal: 101
+  majority_party: D
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:31:42 Z
+  total_votes: 488
+  years: 1991-1993
+  id: 2
+  party_of_president: R
+  total_cloture_votes: 47
+  ordinal: 102
+  majority_party: D
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:31:34 Z
+  total_votes: 724
+  years: 1993-1995
+  id: 3
+  party_of_president: D
+  total_cloture_votes: 46
+  ordinal: 103
+  majority_party: D
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:31:07 Z
+  total_votes: 919
+  years: 1995-1997
+  id: 4
+  party_of_president: D
+  total_cloture_votes: 50
+  ordinal: 104
+  majority_party: R
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:31:00 Z
+  total_votes: 612
+  years: 1997-1999
+  id: 5
+  party_of_president: D
+  total_cloture_votes: 53
+  ordinal: 105
+  majority_party: R
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:30:43 Z
+  total_votes: 714
+  years: 1999-2001
+  id: 6
+  party_of_president: D
+  total_cloture_votes: 58
+  ordinal: 106
+  majority_party: R
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:30:27 Z
+  total_votes: 633
+  years: 2001-2003
+  id: 7
+  party_of_president: R
+  total_cloture_votes: 61
+  ordinal: 107
+  majority_party: D
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:30:04 Z
+  total_votes: 675
+  years: 2003-2005
+  id: 8
+  party_of_president: R
+  total_cloture_votes: 49
+  ordinal: 108
+  majority_party: R
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-02-16 06:29:53 Z
+  total_votes: 645
+  years: 2005-2007
+  id: 9
+  party_of_president: R
+  total_cloture_votes: 54
+  ordinal: 109
+  majority_party: R
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-03-26 01:20:52 Z
+  total_votes: 657
+  years: 2007-2009
+  id: 10
+  party_of_president: R
+  total_cloture_votes: 
+  ordinal: 110
+  majority_party: D
+  created_at: 2009-01-27 04:00:51 Z
+- updated_at: 2009-03-28 21:31:10 Z
+  total_votes: 115
+  years: 2009-2011
+  id: 11
+  party_of_president: D
+  total_cloture_votes: 
+  ordinal: 111
+  majority_party: D
+  created_at: 2009-01-27 04:00:51 Z

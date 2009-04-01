@@ -1,0 +1,2 @@
+class Bill < Voteable
+end

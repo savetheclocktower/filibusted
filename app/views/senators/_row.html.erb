@@ -1,0 +1,9 @@
+<tr>
+  <td class="columns-2-first columns-2">
+    <%= link_to_senator senator %>
+    <span class="epithet"><%= senator.epithet %></span>
+  </td>
+  <td class="number <%= obstruction_rate_class_names(senator) %>">
+    <%= senator.obstruction_percentage %>
+  </td>
+</tr>

@@ -1,0 +1,69 @@
+<%=chart :pie %>
+
+  <%=component :draw %>   
+    components:         
+      - <%=drawing :text %>
+        color:    ffffff
+        alpha:    10
+        rotation: 0
+        bold:     true
+        size:     30
+        x:        0
+        y:        140
+        width:    400
+        height:   150
+        h_align:  center
+        v_align:  bottom
+        text:     |||||||||||||||||||||||||||||||||||||||||||||||
+        
+  <%=component :chart_grid_h %>
+    alpha: 20
+    thickness: 1
+    type: solid
+    color: 000000
+
+  <%=component :chart_rect %>
+    positive_alpha: 20
+    positive_color: ffffff
+    negative_color: ff0000
+    negative_alpha: 10
+    y: 40
+
+  <%=component :chart_value %>
+    prefix: 
+    as_percentage: true
+    alpha: 90
+    size: 10
+    bold: true
+    separator: 
+    decimals: 0
+    color: <%= colorize %>
+    font: arial
+    position: inside
+    suffix: 
+        
+  <%=component :legend_label %>
+    size: 13
+    alpha: 85
+    bullet: circle
+    bold: true
+    color: ffffff
+    font: arial
+    layout: horizontal
+
+  <%=component :legend_rect %>
+    line_alpha: 0
+    fill_alpha: 10
+    line_color: 000000
+    fill_color: ffffff
+    line_thickness: 0
+    y: 40
+    
+  <%=component :series_color %>
+     colors: ddaa41,88dd11,4e62dd,ff8811,4d4d4d,5a4b6e
+       
+  <%=component :series_explode %>
+     numbers: 
+       - 20
+       - 0
+       - 50
